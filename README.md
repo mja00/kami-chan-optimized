@@ -1,0 +1,1 @@
+# paper-chan-optimized
