@@ -21,6 +21,7 @@ We're a completely open source modpack. You can view our source code [here](http
 - **Q:** What mods do you include in the pack? Why those in particular?
     - **A:**<details><summary>Included mods</summary>
                  <ul>
+                 <li>Animatica</li>
                  <li>Cull Less Leaves</li>
                  <li>Dynamic FPS</li>
                  <li>Entity Culling</li>
@@ -31,7 +32,10 @@ We're a completely open source modpack. You can view our source code [here](http
                  <li>Lithium</li>
                  <li>Memory Leak Fix</li>
                  <li>Mixin Conflict Helper</li>
+                 <li>Model Gap Fix</li>
                  <li>Modmenu</li>
+                 <li>Optigui</li>
+                 <li>Puzzle</li>
                  <li>Reese's Sodium Options</li>
                  <li>Smooth Boot</li>
                  <li>Sodium Extra</li>
