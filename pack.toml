@@ -1,16 +1,16 @@
-name = "Paper Chan Optimized"
+name = "Paper Chan Optimized Plus"
 author = "mja00"
-version = "1.1.1.0"
+version = "1.0.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c666c0a0ba2469684536963ae9f504678cbfe3eaa263108669bb8cd17cc6db73"
+hash = "218e69573c0bbfc386d3904d5aaf8a91e94d4f2e52f3c530b0250b44c74df629"
 
 [versions]
 fabric = "0.14.12"
 minecraft = "1.19.3"
 
 [options]
-acceptable-game-versions = ["1.19.3"]
+acceptable-game-versions = ["1.19.3", "1.19.2"]
