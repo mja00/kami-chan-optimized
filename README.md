@@ -1,6 +1,4 @@
-A Fabric-based modpack built around optimizing your Minecraft client without adding extra bloat. 
-
-### What is Paper Chan Optimized Plus?
+ ### What is Paper Chan Optimized Plus?
 This is a version of the modpack that includes extra mods. None of the extra mods included there improve performance, they're only QoL mods and improve the game's experience.
 
 Unfortunately some mods we want to include cannot be included due to them only existing on CurseForge and not explicitly granting permission to redistribute.
