@@ -1,12 +1,12 @@
 name = "Paper Chan Optimized Plus"
 author = "mja00"
-version = "1.0.0.0"
+version = "1.0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "218e69573c0bbfc386d3904d5aaf8a91e94d4f2e52f3c530b0250b44c74df629"
+hash = "1d0e57358ff3568b4d71db78a61634ebe77c08e7fad0e8dca422ebf58607bf92"
 
 [versions]
 fabric = "0.14.12"
