@@ -1,10 +1,12 @@
-A Fabric-based modpack built around optimizing your Minecraft client without adding extra bloat. 
+The repo wasn't renamed because that would be a headache. This is still the right repo!
+
+A Fabric-based modpack built around optimizing your Minecraft client without adding extra bloat. Want a version with some extra bells and whistles? Check of the [plus version of the modpack!](https://modrinth.com/modpack/paper-chan-optimized-plus)
 
 ### Performance
-Paper Chan Optimized uses commonly installed Fabric performance mods to turn your client up to 11. Some of these mods include Sodium, Lithium, and Starlight.
+Kami Chan Optimized uses commonly installed Fabric performance mods to turn your client up to 11. Some of these mods include Sodium, Lithium, and Starlight.
 
 ### Vanilla Parity
-Since we don't add any content mods the Paper Chan Optimized modpack will work in any world and on any server.
+Since we don't add any content mods the Kami Chan Optimized modpack will work in any world and on any server.
 
 ### Open source
 We're a completely open source modpack. You can view our source code [here](https://github.com/mja00/paper-chan-optimized). Feel free to open issues or even make a PR to improve on the pack! 
@@ -52,3 +54,6 @@ We employ a somewhat normal versioning scheme. The current format is `w.x.y.z`.
 `X` will increment with any changes to the list of mods. For instance, adding/removing a mod would increment that number.  
 `Y` will increment with any updates to any mods in the list.  
 `Z` will increment with any hotfixes to the modpack.  
+
+# Disclaimer
+Kami Chan Optimized is not affiliated with the PaperMC project. Please do not go to their Discord for support. Instead use the Discord link listed in this project's links.
