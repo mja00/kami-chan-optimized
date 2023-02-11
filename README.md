@@ -1,13 +1,13 @@
- ### What is Paper Chan Optimized Plus?
-This is a version of the modpack that includes extra mods. None of the extra mods included there improve performance, they're only QoL mods and improve the game's experience.
+ ### What is Kami Chan Optimized Plus?
+This is a version of the [KamiChan Optimized](https://modrinth.com/modpack/kami-chan-optimized) modpack that includes extra mods. None of the extra mods included there improve performance, they're only QoL mods and improve the game's experience.
 
-Unfortunately some mods we want to include cannot be included due to them only existing on CurseForge and not explicitly granting permission to redistribute.
+Unfortunately, some mods we want to include cannot be included due to them only existing on CurseForge and not explicitly granting permission to redistribute.
 
 ### Performance
-Paper Chan Optimized uses commonly installed Fabric performance mods to turn your client up to 11. Some of these mods include Sodium, Lithium, and Starlight.
+Kami Chan Optimized uses commonly installed Fabric performance mods to turn your client up to 11. Some of these mods include Sodium, Lithium, and Starlight.
 
 ### Vanilla Parity
-Since we don't add any content mods the Paper Chan Optimized modpack will work in any world and on any server.
+Since we don't add any content mods the Kami Chan Optimized Plus modpack will work in any world and on any server.
 
 ### Open source
 We're a completely open source modpack. You can view our source code [here](https://github.com/mja00/paper-chan-optimized). Feel free to open issues or even make a PR to improve on the pack! 
@@ -38,3 +38,6 @@ Due to CurseForge's anti-competitive behavors we have to redistribute some mods.
   - Same permissions as Xaero's Minimap
 
 If you are an author of any of these mods and wish to have us remove it from the modpack either reach out to me on Discord at mja00#0001 or through email at [paper-chan@mart.fyi](mailto:paper-chan@mart.fyi)
+
+# Disclaimer
+Kami Chan Optimized is not affiliated with the PaperMC project. Please do not go to their Discord for support. Instead use the Discord link listed in this project's links.
