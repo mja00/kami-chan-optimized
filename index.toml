@@ -121,6 +121,11 @@ hash = "26e720ab613645ce95edb929e7303e2be0dea80fa950a72883c1eee2842513b1"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "3bca5a31f4a469ca2c833cab5b87093ce809c2b599d6f93c19f78b69b78828a5"
 metafile = true
@@ -217,12 +222,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "99f684d8b6344d8ddb0b4119dbb064685e682d2919846b3ca76796ff0f19f106"
+hash = "b93b31c1eb04ff2de49e0bca491d28382bca3afb766e9224755600d3846d3730"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-worldmap.pw.toml"
-hash = "b5a669e3d83534941b51d720ba715d52813a31ea2638f3ee3161c97650526d50"
+hash = "1d430a022ffc73d838f6095c3ffd28372edc883d7ea30d53618f899a6a5185ce"
 metafile = true
 
 [[files]]
