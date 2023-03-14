@@ -51,6 +51,11 @@ hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "f974bd1b21f7b3c9046c4ccaeb8ed1cbd36df72b080c5deff86f8d7f5774ce07"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "9bbc0948f6dd4ca6e942ecf481e33e209bc4a942ddd211e7ab2ece260357027f"
 metafile = true
@@ -81,6 +86,11 @@ hash = "6d8f457e49c2a578262d091817b5571897cd73a3bc58db33bac3c60f13d67679"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "ba45e613ef5235e964a12eb9c18f18251690b185293ed00304a1df970a530eb3"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "c880ebfe6d340e4da7fe935f1a3cdcff84d3db7f4efe8fb3d12839b6d08c7aed"
 metafile = true
@@ -92,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "443e8f4bc1c71f843308885e8ab345bebedc19a6054bd97a61d6612f783832f4"
+hash = "93f56acd51ee2ed875d14fd9b5b80bedd96caabaad8d10b843711f8801ce3bb2"
 metafile = true
 
 [[files]]
@@ -103,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "79849a3a5c4d0ef9ddab4ddca20424128021f562ef8f599bc5867592219a3f6b"
 metafile = true
 
 [[files]]
