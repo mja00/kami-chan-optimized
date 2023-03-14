@@ -50,7 +50,7 @@ We're a completely open source modpack. You can view our source code [here](http
 ## Versioning
 We employ a somewhat normal versioning scheme. The current format is `w.x.y.z`.
 
-`W` will increment each new major Minecraft release. For instance, version 1 is 1.19.X and 2 would be 1.20.X.  
+`W` will increment each new Minecraft release. For instance, version 1 is 1.19.3 and 2 would be 1.19.4.  
 `X` will increment with any changes to the list of mods. For instance, adding/removing a mod would increment that number.  
 `Y` will increment with any updates to any mods in the list.  
 `Z` will increment with any hotfixes to the modpack.  
