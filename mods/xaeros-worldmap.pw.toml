@@ -1,0 +1,9 @@
+name = "Xaero's Worldmap"
+filename = "XaerosWorldMap_1.29.2_Fabric_1.19.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.theairplan.com/jars%2Fmods%2Fpaper-chan-optimized-overrides%2FXaerosWorldMap_1.29.2_Fabric_1.19.3.jar"
+
+hash-format = "sha256"
+hash = "25180453E3B796C208684997A0950371D0C5899EA2BB31AADE206327C91BF911"

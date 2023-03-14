@@ -1,0 +1,13 @@
+name = "Armor Visibility"
+filename = "armor-visibility-6.0.1+1.19.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kvPlmCLX/versions/JsbfxdYz/armor-visibility-6.0.1%2B1.19.1-fabric.jar"
+hash-format = "sha1"
+hash = "db3c175b48224e3903186a0c5d971b1e881ce604"
+
+[update]
+[update.modrinth]
+mod-id = "kvPlmCLX"
+version = "JsbfxdYz"

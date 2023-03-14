@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-7.1.70-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/VwpnDGLt/architectury-7.1.70-fabric.jar"
+hash-format = "sha1"
+hash = "19c3b151eaf3c9fe1ae3a6209b32fe264b77defc"
+
+[update]
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "VwpnDGLt"
