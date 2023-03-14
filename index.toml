@@ -6,11 +6,6 @@ hash = "e968697fde7906f611bbab872e103281fdf42000fd334a852e3e83e7f7b309af"
 metafile = true
 
 [[files]]
-file = "mods/advancementinfo.pw.toml"
-hash = "1032be27cba97e6f12e060b210d7df3d3f3cae3099a66f1b1bb4c13b17786016"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
@@ -21,18 +16,8 @@ hash = "44747e64b28a91cfc1468e14dbb55ac960b4213a20f59fd4116bf817970c6422"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "9b079e80a153e584da0321d4d02f6caeba2a37b6dc3e680d7048fffb8694cbc1"
-metafile = true
-
-[[files]]
 file = "mods/armor-visibility.pw.toml"
 hash = "597318cdd09921b2afbec02fc0036aace104ec093f8ab7eaea91aa3b0ea2450e"
-metafile = true
-
-[[files]]
-file = "mods/beenfo.pw.toml"
-hash = "d993d09db7ef2c66dfbfc999e50a5b333b89d2745dd41e58aa06a28632f80f50"
 metafile = true
 
 [[files]]
@@ -41,18 +26,8 @@ hash = "296b4e7a1b7eee84117cc64362f27a981a820e9a39c9d8acae9937c0fca99da6"
 metafile = true
 
 [[files]]
-file = "mods/clickthrough.pw.toml"
-hash = "6bbd79d6ae379bd1aae1527e5a41b3d56166c5d66e2d14a6e43be20dcee0ae5f"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
-metafile = true
-
-[[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "75320e01ff189b52ea19d97720a18fb085b7812a503fc5ca4753e1f3530c3aba"
 metafile = true
 
 [[files]]
@@ -63,11 +38,6 @@ metafile = true
 [[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "a0fadf447ae3fd8fc80182dd23a3bcab10e47442a732cfe5001c0b7aa008468f"
-metafile = true
-
-[[files]]
-file = "mods/durabilityviewer.pw.toml"
-hash = "7128ef61169fb41983691feebd3119798ef3c1b3eefeebe1275c4e891d93bdaa"
 metafile = true
 
 [[files]]
@@ -96,11 +66,6 @@ hash = "df12767833f6d916dcb6f6b9a75da6a1cbc134600561bc5588c3f0cbca03c93b"
 metafile = true
 
 [[files]]
-file = "mods/fallingleaves.pw.toml"
-hash = "9892a0024b5f2aeb4dbb9b39f3ebc518c4661ba31b487dd332b879ba22bcc4fd"
-metafile = true
-
-[[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "7162f2aedf1a05a96f3f6f4ac62d0041e7642baf985f6e7ca9c6afb6751161de"
 metafile = true
@@ -116,18 +81,8 @@ hash = "6d8f457e49c2a578262d091817b5571897cd73a3bc58db33bac3c60f13d67679"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "26e720ab613645ce95edb929e7303e2be0dea80fa950a72883c1eee2842513b1"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "c880ebfe6d340e4da7fe935f1a3cdcff84d3db7f4efe8fb3d12839b6d08c7aed"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "3bca5a31f4a469ca2c833cab5b87093ce809c2b599d6f93c19f78b69b78828a5"
 metafile = true
 
 [[files]]
@@ -151,11 +106,6 @@ hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "532d457b24097cb6392eb119812b004a2fcfe8f71268fc4a14701d5daad26be1"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
 metafile = true
@@ -171,11 +121,6 @@ hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "62038d09ca74b799438634d9f2bf9f1d676e2558a7a499b80bfaef5c614d2c61"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
 metafile = true
@@ -188,16 +133,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "08ebef7b05d062d38dbfea5063baa8238270fde7df267ab6286bb62498d0b166"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-worldmap.pw.toml"
-hash = "f213c1c083b76509e7947f4d2714f5b9339443bfeb7acaedcc9cde9a9c169a58"
 metafile = true
 
 [[files]]
