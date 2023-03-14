@@ -1,3 +1,4 @@
 # Exclude README
 /README.md
 /LICENSE
+/mods/*.disabled
