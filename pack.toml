@@ -1,12 +1,12 @@
 name = "Kami Chan Optimized Plus"
 author = "mja00"
-version = "2.1.0.0"
+version = "2.1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "de18dd11e3d701cce7ccedf5b2e61dedd8b37a6ae1578b2b4d0a5e12d260ab4a"
+hash = "7d3c76498d2113e5c69f2c49d774d83512e9ca7a1e7189828fb12c56bf13b817"
 
 [versions]
 fabric = "0.14.17"

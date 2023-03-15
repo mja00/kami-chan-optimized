@@ -11,11 +11,6 @@ hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
 
 [[files]]
-file = "mods/appleskin.pw.toml"
-hash = "44747e64b28a91cfc1468e14dbb55ac960b4213a20f59fd4116bf817970c6422"
-metafile = true
-
-[[files]]
 file = "mods/armor-visibility.pw.toml"
 hash = "597318cdd09921b2afbec02fc0036aace104ec093f8ab7eaea91aa3b0ea2450e"
 metafile = true
@@ -33,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "18f046ed2181bbfbfb07b1db22f8babed47a40d8d80f204bd9e5574a5d9cfb3b"
-metafile = true
-
-[[files]]
-file = "mods/dripsounds-fabric.pw.toml"
-hash = "a0fadf447ae3fd8fc80182dd23a3bcab10e47442a732cfe5001c0b7aa008468f"
 metafile = true
 
 [[files]]
@@ -73,11 +63,6 @@ metafile = true
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "7162f2aedf1a05a96f3f6f4ac62d0041e7642baf985f6e7ca9c6afb6751161de"
-metafile = true
-
-[[files]]
-file = "mods/idwtialsimmoedm.pw.toml"
-hash = "524211cbee1f5a67d9ca0823755f3678044bf1040ecf43708226c5ef312d96c1"
 metafile = true
 
 [[files]]
