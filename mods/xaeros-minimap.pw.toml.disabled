@@ -1,9 +1,0 @@
-name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_23.3.0_Fabric_1.19.3.jar"
-side = "both"
-
-[download]
-url = "https://cdn.theairplan.com/jars/mods/paper-chan-optimized-overrides/Xaeros_Minimap_23.3.0_Fabric_1.19.3.jar"
-
-hash-format = "sha256"
-hash = "80DE4AC3E109C71B46C298A4B75DD714F6A9820F2F3BA9B412E9E833C9EB1105"
