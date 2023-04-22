@@ -1,6 +1,6 @@
 The repo wasn't renamed because that would be a headache. This is still the right repo!
 
-A Fabric-based modpack built around optimizing your Minecraft client without adding extra bloat. Want a version with some extra bells and whistles? Check of the [plus version of the modpack!](https://modrinth.com/modpack/paper-chan-optimized-plus)
+A Fabric-based modpack built around optimizing your Minecraft client without adding extra bloat. Want a version with some extra bells and whistles? Check of the [plus version of the modpack!](https://modrinth.com/modpack/kami-chan-optimized-plus)
 
 ### Performance
 Kami Chan Optimized uses commonly installed Fabric performance mods to turn your client up to 11. Some of these mods include Sodium, Lithium, and Starlight.
