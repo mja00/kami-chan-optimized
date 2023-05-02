@@ -1,13 +1,13 @@
 name = "Fabrishot"
-filename = "fabrishot-1.9.1.jar"
+filename = "fabrishot-1.9.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3qsfQtE9/versions/Fq42foYA/fabrishot-1.9.1.jar"
+url = "https://cdn.modrinth.com/data/3qsfQtE9/versions/IkbywOGy/fabrishot-1.9.2.jar"
 hash-format = "sha1"
-hash = "e95b8898cc6c75b9d2fde3f5440ae09f46ba1249"
+hash = "e96bd70b49bbc49f13284b3a80bff974d0932ebd"
 
 [update]
 [update.modrinth]
 mod-id = "3qsfQtE9"
-version = "Fq42foYA"
+version = "IkbywOGy"
