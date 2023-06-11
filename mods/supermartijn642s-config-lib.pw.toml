@@ -1,0 +1,13 @@
+name = "SuperMartijn642's Config Lib"
+filename = "supermartijn642configlib-1.1.6-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LN9BxssP/versions/AnZ97CRs/supermartijn642configlib-1.1.6-fabric-mc1.20.jar"
+hash-format = "sha1"
+hash = "10e7f1d2c092aa9452b5c12b737332c6f737c24b"
+
+[update]
+[update.modrinth]
+mod-id = "LN9BxssP"
+version = "AnZ97CRs"

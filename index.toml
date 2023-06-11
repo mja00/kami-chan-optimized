@@ -41,8 +41,14 @@ hash = "312270e142843c8709d2768888f6a95572ed385d4b4aaf50526f1bfa667cf23c"
 metafile = true
 
 [[files]]
-file = "mods/dripsounds-fabric.pw.toml.disbled"
+file = "mods/dripsounds-fabric.pw.toml"
 hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "68b89af2373d74955b72209195d3874d8ab24f25683010d7e61918ba84a5f439"
+metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -65,6 +71,11 @@ hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "ccdb16fd2564c82cbb0db92b3963c772928bc2dfd6ed693313416e66f4ffd6ca"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
@@ -72,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "49e8e4a6ca064acedd121892f6b279d23e54a62d5e023183578e1e8b559f0c9b"
+metafile = true
+
+[[files]]
+file = "mods/idwtialsimmoedm.pw.toml"
+hash = "a266409ee7850768e0883f4a9fbb64c0697cf63f393f5e35d03e23b772ab7452"
 metafile = true
 
 [[files]]
@@ -115,8 +131,18 @@ hash = "728d46b605885ad0ec57968f7d6b1c926d93fcca3b235dda272f0ed02701cf83"
 metafile = true
 
 [[files]]
+file = "mods/morebeeinfo.pw.toml"
+hash = "a7f00c43bd115f5905e87b6a56bd2f777885797051976ebac579de72f10828a8"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "cc1a5233588d0c2a1a284a0d98f9543ca987afccfe5e7ecf4e98f3c3f74706e8"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5027329d763899c40db5e3f389cfb2262d61d0037668c331db0cec1491c585d8"
 metafile = true
 
 [[files]]
@@ -132,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/roundaround-axolotl-buckets.pw.toml"
 hash = "f0d905f176d47c63139e372c9adc0e7538c60f8b4b2d4d359860eb0921b809a6"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]
@@ -152,6 +183,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "49ae5dfcce2f17ca0a15c37c2bfb08ec257480a5520d87d1b52fd9ccc86cd34c"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]

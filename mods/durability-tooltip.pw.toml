@@ -1,0 +1,13 @@
+name = "Durability Tooltip"
+filename = "durabilitytooltip-1.1.4-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/smUP7V3r/versions/oTdPPG3r/durabilitytooltip-1.1.4-fabric-mc1.20.jar"
+hash-format = "sha1"
+hash = "c933e584c94375fc8bfe43c5016b5cf04d8b11d7"
+
+[update]
+[update.modrinth]
+mod-id = "smUP7V3r"
+version = "oTdPPG3r"
