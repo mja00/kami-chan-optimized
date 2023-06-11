@@ -1,13 +1,13 @@
 name = "Ash API"
-filename = "ash-fabric-1.19.4-1.0.0.jar"
+filename = "ash-fabric-1.20-2.0.0-rc.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q8xUICr6/versions/jW0pO5T8/ash-fabric-1.19.4-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/Q8xUICr6/versions/fCpV6U5t/ash-fabric-1.20-2.0.0-rc.2.jar"
 hash-format = "sha1"
-hash = "3046c46351913e54b8ee657aa8569c9852a713b7"
+hash = "5b0a8abdb05455dca76dd8fbd9919614c086a2a9"
 
 [update]
 [update.modrinth]
 mod-id = "Q8xUICr6"
-version = "jW0pO5T8"
+version = "fCpV6U5t"

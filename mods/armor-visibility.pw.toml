@@ -1,13 +1,13 @@
 name = "Armor Visibility"
-filename = "armor_visibility-fabric-1.19.4-7.0.0.jar"
+filename = "armor_visibility-fabric-1.20-8.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kvPlmCLX/versions/45odkucL/armor_visibility-fabric-1.19.4-7.0.0.jar"
+url = "https://cdn.modrinth.com/data/kvPlmCLX/versions/UFVw0L3n/armor_visibility-fabric-1.20-8.0.0.jar"
 hash-format = "sha1"
-hash = "ef4922dff2bbc4c0668d4be9cc5ed46c4b2c35ac"
+hash = "6cb2aa8b28401021fd6572a87ab8f2b5a463af60"
 
 [update]
 [update.modrinth]
 mod-id = "kvPlmCLX"
-version = "45odkucL"
+version = "UFVw0L3n"
