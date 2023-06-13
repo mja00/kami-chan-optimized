@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "d8e1be6504f9fa74f7f78904422b83cc0b7147ed974e6dab16f03ec9dfda8994"
+hash = "f238e1f28f18e58f737116b13dab9716ca38b2dd84242e802d60419cc71ed737"
 metafile = true
 
 [[files]]
@@ -28,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
-metafile = true
-
-[[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "7230506ca6ccd632426f3e9e5e6193983eb3ff02bafbe8cef7456ef00e81c9c4"
 metafile = true
 
 [[files]]
@@ -62,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ca4c66e6e0c96f139fb996915277a0a417a55fc5ffa8810d0aaa5dd07080399c"
+hash = "ace3e916242bdfbc9177b8572dd57567b5a1afc6773466d21f464522b3a60981"
 metafile = true
 
 [[files]]
@@ -92,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "69cfa6ef4d6dafd9e8bada8564c701b34b1c708ca5a0ebe417ca0657fa424eaf"
+hash = "da49262a60cebc436b9e4b7f8ab253930029ec5f9c18874a5bf7b55a4b8bc027"
 metafile = true
 
 [[files]]
@@ -117,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
@@ -137,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "cc1a5233588d0c2a1a284a0d98f9543ca987afccfe5e7ecf4e98f3c3f74706e8"
+hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
 metafile = true
 
 [[files]]
@@ -202,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5171b769a8cce65fe845fad8afeb7d7015a60641ae71b2e7aa53b5907b75f4a5"
+hash = "132ba8da2938bab4267c47f5daef9b93cc1bc671f63cd3c3f6ad2e354be289df"
 metafile = true
 
 [[files]]
