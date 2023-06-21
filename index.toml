@@ -1,13 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "312270e142843c8709d2768888f6a95572ed385d4b4aaf50526f1bfa667cf23c"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "631d68ae5fcc3ed6edf6b8cadcd3e31f1cc17df300bfb541df10c278b7d7eaf1"
+hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
 metafile = true
 
 [[files]]
@@ -17,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ace3e916242bdfbc9177b8572dd57567b5a1afc6773466d21f464522b3a60981"
+hash = "b92a08e1bcd540e972238d9744b2b85df361df4eeaeeaec993be62c33507054a"
 metafile = true
 
 [[files]]
@@ -51,6 +56,11 @@ hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -62,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "728d46b605885ad0ec57968f7d6b1c926d93fcca3b235dda272f0ed02701cf83"
+hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
 metafile = true
 
 [[files]]
@@ -77,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "00b38741c7c66f83d205d394c1ffd7d7d881a3d8600bf96488f94496e85c309b"
+hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
 
 [[files]]
