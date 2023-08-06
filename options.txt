@@ -1,0 +1,4 @@
+version:3465
+autoJump:false
+enableVsync:false
+key_key.saveToolbarActivator:key.keyboard.unknown

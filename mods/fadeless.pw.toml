@@ -1,0 +1,13 @@
+name = "Fadeless"
+filename = "fadeless-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ncKjyGm3/versions/j53ChsnW/fadeless-1.0.1.jar"
+hash-format = "sha1"
+hash = "8a48f9abfa26e4abc06490c6e818f5cf6af1c280"
+
+[update]
+[update.modrinth]
+mod-id = "ncKjyGm3"
+version = "j53ChsnW"
