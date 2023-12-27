@@ -1,13 +1,13 @@
 name = "ClickThrough"
-filename = "clickthrough-1.20-fabric0.83.0-0.4.1.jar"
+filename = "clickthrough-1.20.4-fabric0.91.2-0.4.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Z5b0cAlD/versions/bwQT3Pqa/clickthrough-1.20-fabric0.83.0-0.4.1.jar"
+url = "https://cdn.modrinth.com/data/Z5b0cAlD/versions/7BwF68rg/clickthrough-1.20.4-fabric0.91.2-0.4.1.jar"
 hash-format = "sha1"
-hash = "af4fab0a71ef09870c724a22036437070fb54952"
+hash = "b3c6b06a160c3499a15db88edaf382344d281604"
 
 [update]
 [update.modrinth]
 mod-id = "Z5b0cAlD"
-version = "bwQT3Pqa"
+version = "7BwF68rg"
