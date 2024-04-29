@@ -16,13 +16,8 @@ hash = "27f9b131c5f2db3267fe07cab7c104a5651cbdfbdc1f023374fe6d93f686f26b"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "420f1233f51be1ee5fe0adb93ec0e5479337ccaeb54ded86c03915ffd55103e7"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "07ae974f1ebcee200aede70701ccddca3f64d8e8767b38bd534702da369f9288"
+hash = "3128c3600b7b3f360925afb2e0ace33c63fe0d588f91fc8f42648ff2362cb2a3"
 metafile = true
 
 [[files]]
@@ -53,16 +48,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "05fe4ad14dc2916a159c350df110ffbd1b92555ce100211d2e018a9afdfd59da"
-metafile = true
-
-[[files]]
-file = "mods/lazydfu.pw.toml"
-hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
@@ -101,18 +86,13 @@ hash = "c35d165125b8a1064f59e6573ce99fb62ce36142adbc476f3e2533256910ec4b"
 metafile = true
 
 [[files]]
-file = "mods/serverpingerfixer.pw.toml"
-hash = "1e392b828a8beb7670a4c2eb46d413acfa8552f2889b7d10e3a4ca715310677f"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "66c62adefd37770c1b4c2ebdeb3d65aebfd0c4e30e5264fcb8d086dd27be0700"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "7e5ee2f0c969e8a9792b511c3d53b0ecb61b3a5c7956b98819b319c9f3bb062d"
+hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
 metafile = true
 
 [[files]]
