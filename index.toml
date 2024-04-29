@@ -56,6 +56,16 @@ hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "8d8efd1b0fdd39724444d3f38573077f82b9f7091376d1c18a52404d7053626c"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -107,5 +117,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "343309421a28a9a4cea458fd0742c836e7cb6d18e0fb9b5cb4e1b07b49a283ad"
+hash = "c097a97f354136fdea5214a9660970eade3a25449792365372dd82f65f7a9ffa"
 metafile = true
