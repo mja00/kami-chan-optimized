@@ -1,13 +1,13 @@
 name = "Particle Blocker"
-filename = "particle-blocker-1.2.jar"
+filename = "particle-blocker-1.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aVja52oo/versions/Q4LYaKX5/particle-blocker-1.2.jar"
+url = "https://cdn.modrinth.com/data/aVja52oo/versions/v5Y8plmA/particle-blocker-1.9.jar"
 hash-format = "sha1"
-hash = "e893b6947f7949940df2a7a96e19a1be9b5bfa81"
+hash = "f4ed580c168d55052b4b7212fb5da664d5f324d1"
 
 [update]
 [update.modrinth]
 mod-id = "aVja52oo"
-version = "Q4LYaKX5"
+version = "v5Y8plmA"
