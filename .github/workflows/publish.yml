@@ -36,12 +36,12 @@ jobs:
       - name: Publish to Modrinth
         uses: Kir-Antipov/mc-publish@v3.3
         # Only publish if we're on the main branch
-        if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]'))
         with:
           modrinth-id: sQ1MQcd2
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-featured: true
-          modrinth-unfeature-mode: game-version-intersection | loaders-subset
+          modrinth-unfeature-mode: subset
           # The files will be 'Kami Chan Optimized-w.x.y.z.mrpack' so just use that
           files: '*.mrpack'
           loaders: |
