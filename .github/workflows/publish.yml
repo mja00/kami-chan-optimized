@@ -4,7 +4,7 @@ name: Publish Modpack
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main", "paper-chan-optimized-plus" ]
   workflow_dispatch:
 
 jobs:
@@ -33,12 +33,31 @@ jobs:
         with:
           file: pack.toml
           field: versions.minecraft
-      - name: Publish to Modrinth
+      - name: Publish to Modrinth (Main)
         uses: Kir-Antipov/mc-publish@v3.3
         # Only publish if we're on the main branch
         if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]'))
         with:
           modrinth-id: sQ1MQcd2
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          modrinth-featured: true
+          modrinth-unfeature-mode: subset
+          modrinth-version: ${{ steps.pack_version.outputs.value }}
+          modrinth-version-type: release
+          # The files will be 'Kami Chan Optimized-w.x.y.z.mrpack' so just use that
+          files: '*.mrpack'
+          loaders: |
+            fabric
+          # For the name, it's always formatted as '[MC Version] - [Modpack Version]'
+          name: '${{ steps.pack_minecraft.outputs.value }} - ${{ steps.pack_version.outputs.value }}'
+          game-versions: |
+            ${{ steps.pack_minecraft.outputs.value }}
+      - name: Publish to Modrinth (Plus)
+        uses: Kir-Antipov/mc-publish@v3.3
+        # Only publish if we're on the main branch
+        if: github.ref == 'refs/heads/paper-chan-optimized-plus' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]'))
+        with:
+          modrinth-id: Ev7buduH
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-featured: true
           modrinth-unfeature-mode: subset

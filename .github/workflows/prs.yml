@@ -1,0 +1,49 @@
+# Build the pack on pull requests and link the resulting pack to the open PR
+name: Build and Upload PR Pack
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Download packwiz
+        run: |
+          wget -O packwiz.zip https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
+          unzip packwiz.zip
+          chmod +x packwiz
+      - name: Export modpack
+        run: ./packwiz modrinth export
+      # Now we need to parse our pack.toml file to get some information
+      - name: Parse pack.toml version
+        uses: SebRollen/toml-action@v1.2.0
+        id: pack_version
+        with:
+          file: pack.toml
+          field: version
+      - name: Upload pack
+        uses: actions/upload-artifact@v4
+        id: pr-pack
+        with:
+          # The path will be something ending in .mrpack
+          path: '*.mrpack'
+          if-no-files-found: error
+          retention-days: 14
+      - name: Comment on PR
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: 'Built pack: [Kami Chan Optimized-${{ steps.pack_version.outputs.value }}.mrpack](${{ steps.pr-pack.outputs.artifact-url }})'
+            })
+
+      
