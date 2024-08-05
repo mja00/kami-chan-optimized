@@ -13,6 +13,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Cache packwiz
+        id: cache-packwiz
+        uses: actions/cache@v3
+        with:
+          path: packwiz
+          key: ${{ runner.os }}-packwiz
+
       - name: Download packwiz
         run: |
           wget -O packwiz.zip https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
