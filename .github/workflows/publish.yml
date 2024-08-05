@@ -42,6 +42,8 @@ jobs:
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-featured: true
           modrinth-unfeature-mode: subset
+          modrinth-version: ${{ steps.pack_version.outputs.value }}
+          modrinth-version-type: release
           # The files will be 'Kami Chan Optimized-w.x.y.z.mrpack' so just use that
           files: '*.mrpack'
           loaders: |
