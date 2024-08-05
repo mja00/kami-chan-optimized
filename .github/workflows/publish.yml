@@ -92,9 +92,16 @@ jobs:
           game-versions: |
             ${{ steps.pack_minecraft.outputs.value }}
 
+      - name: Check for existing release
+        uses: insightsengineering/release-existence-action@v1.0.0
+        id: release-existence
+        with:
+          release-tag: ${{ steps.pack_version.outputs.value }}
+
       - name: Create release
         uses: softprops/action-gh-release@v1
-        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]'))
+        # Don't attempt to re-release if the tag already exists
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]')) && steps.release-existence.outputs.release-exists != 'true'
         with:
           files: Kami Chan Optimized-*.mrpack
           name: '${{ steps.pack_minecraft.outputs.value }} - ${{ steps.pack_version.outputs.value }}'
