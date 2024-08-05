@@ -13,13 +13,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
+      - name: Cache packwiz
+        id: cache-packwiz
+        uses: actions/cache@v3
+        with:
+          path: packwiz
+          key: ${{ runner.os }}-packwiz
+
       - name: Download packwiz
+        if: steps.cache-packwiz.outputs.cache-hit != 'true'
         run: |
           wget -O packwiz.zip https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
           unzip packwiz.zip
           chmod +x packwiz
+
       - name: Export modpack
         run: ./packwiz modrinth export
+
+      - name: Upload modpack to GitHub
+        uses: actions/upload-artifact@v4
+        with:
+          name: Kami Chan Optimized
+          path: Kami Chan Optimized-*.mrpack
+
       # Now we need to parse our pack.toml file to get some information
       - name: Parse pack.toml version
         uses: SebRollen/toml-action@v1.2.0
@@ -27,16 +44,18 @@ jobs:
         with:
           file: pack.toml
           field: version
+
       - name: Parse pack.toml minecraft version
         uses: SebRollen/toml-action@v1.2.0
         id: pack_minecraft
         with:
           file: pack.toml
           field: versions.minecraft
+
       - name: Publish to Modrinth (Main)
         uses: Kir-Antipov/mc-publish@v3.3
         # Only publish if we're on the main branch
-        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]'))
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]')) && (!contains(github.event.head_commit.message, '[skip modrinth]') || contains(github.event.head_commit.message, '[ci skip modrinth]'))
         with:
           modrinth-id: sQ1MQcd2
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
@@ -52,10 +71,11 @@ jobs:
           name: '${{ steps.pack_minecraft.outputs.value }} - ${{ steps.pack_version.outputs.value }}'
           game-versions: |
             ${{ steps.pack_minecraft.outputs.value }}
+
       - name: Publish to Modrinth (Plus)
         uses: Kir-Antipov/mc-publish@v3.3
         # Only publish if we're on the main branch
-        if: github.ref == 'refs/heads/paper-chan-optimized-plus' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]'))
+        if: github.ref == 'refs/heads/paper-chan-optimized-plus' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]')) && (!contains(github.event.head_commit.message, '[skip modrinth]') || contains(github.event.head_commit.message, '[ci skip modrinth]'))
         with:
           modrinth-id: Ev7buduH
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
@@ -71,3 +91,12 @@ jobs:
           name: '${{ steps.pack_minecraft.outputs.value }} - ${{ steps.pack_version.outputs.value }}'
           game-versions: |
             ${{ steps.pack_minecraft.outputs.value }}
+
+      - name: Create release
+        uses: softprops/action-gh-release@v1
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]'))
+        with:
+          files: Kami Chan Optimized-*.mrpack
+          name: '${{ steps.pack_minecraft.outputs.value }} - ${{ steps.pack_version.outputs.value }}'
+          tag_name: '${{ steps.pack_version.outputs.value }}'
+          generate_release_notes: true
