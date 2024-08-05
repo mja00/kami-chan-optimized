@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/prs.yml"
+hash = "48e5c38fad6910f4b0ffe325aa13d750632e434e9a0268422549c57121fc0546"
+
+[[files]]
+file = ".github/workflows/publish.yml"
+hash = "b35e95edf39bd78f7ee6ea34d089e85193f3d61518795f821eebf1b509399769"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
@@ -76,6 +84,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "e2cc568688c5bcd0e41235681bc34c5c9849f214f65b43324bc25022d9ad8c80"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
 metafile = true
@@ -83,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "cce89b418e7dd00df7d58eb6556472385aff2f2934c4bfde1b7a2dcd3b1d17cc"
 metafile = true
 
 [[files]]
