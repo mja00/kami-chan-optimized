@@ -94,6 +94,7 @@ jobs:
 
       - name: Check for existing release
         uses: insightsengineering/release-existence-action@v1.0.0
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]'))
         id: release-existence
         with:
           release-tag: ${{ steps.pack_version.outputs.value }}
