@@ -1,0 +1,13 @@
+name = "Durability101"
+filename = "Durability101-fabric-1.21-0.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yt3rEMOb/versions/TpHvBaS6/Durability101-fabric-1.21-0.0.5.jar"
+hash-format = "sha1"
+hash = "4e5aaa7142ca755939236569d7407f0422743676"
+
+[update]
+[update.modrinth]
+mod-id = "Yt3rEMOb"
+version = "TpHvBaS6"

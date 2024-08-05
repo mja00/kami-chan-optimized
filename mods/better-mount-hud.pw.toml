@@ -1,0 +1,13 @@
+name = "Better Mount HUD"
+filename = "bettermounthud-1.2.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kqJFAPU9/versions/yyJushgo/bettermounthud-1.2.4.jar"
+hash-format = "sha1"
+hash = "4df822bd5bd7d2e125eb9c7fdb38bb4b6ee0476e"
+
+[update]
+[update.modrinth]
+mod-id = "kqJFAPU9"
+version = "yyJushgo"

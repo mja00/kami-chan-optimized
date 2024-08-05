@@ -1,0 +1,13 @@
+name = "microDurability"
+filename = "microdurability-0.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JW3bGnLO/versions/VlmNAzmB/microdurability-0.4.0.jar"
+hash-format = "sha1"
+hash = "14eb8d51eab603a390e580ec03ae7e1537cc37a7"
+
+[update]
+[update.modrinth]
+mod-id = "JW3bGnLO"
+version = "VlmNAzmB"
