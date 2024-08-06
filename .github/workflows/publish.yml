@@ -54,6 +54,7 @@ jobs:
 
       - name: Publish to Modrinth (Main)
         uses: Kir-Antipov/mc-publish@v3.3
+        id: publish-main
         # Only publish if we're on the main branch
         if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]')) && (!contains(github.event.head_commit.message, '[skip modrinth]') || contains(github.event.head_commit.message, '[ci skip modrinth]'))
         with:
@@ -74,6 +75,7 @@ jobs:
 
       - name: Publish to Modrinth (Plus)
         uses: Kir-Antipov/mc-publish@v3.3
+        id: publish-plus
         # Only publish if we're on the main branch
         if: github.ref == 'refs/heads/paper-chan-optimized-plus' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]')) && (!contains(github.event.head_commit.message, '[skip modrinth]') || contains(github.event.head_commit.message, '[ci skip modrinth]'))
         with:
@@ -108,3 +110,31 @@ jobs:
           name: '${{ steps.pack_minecraft.outputs.value }} - ${{ steps.pack_version.outputs.value }}'
           tag_name: '${{ steps.pack_version.outputs.value }}'
           generate_release_notes: true
+      
+      - name: Get current date in ISO 8601 format
+        id: date
+        run: echo "date=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_OUTPUT
+
+      - name: Announce on Discord (Main)
+        uses: tsickert/discord-webhook@v6.0.0
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]')) && (!contains(github.event.head_commit.message, '[skip modrinth]') || contains(github.event.head_commit.message, '[ci skip modrinth]'))
+        with:
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
+          username: Kami Chan
+          avatar-url: https://cdn.modrinth.com/data/sQ1MQcd2/16cd6db5088b78b41c29cda8eda940f5390efa08.png
+          embed-title: 'New Kami Chan Optimized update!'
+          embed-description: '${{ steps.pack_version.outputs.value }} is now available on Modrinth! [Click here to download](${{ steps.publish-main.outputs.modrinth-url }})'
+          embed-thumbnail-url: https://cdn.modrinth.com/data/sQ1MQcd2/16cd6db5088b78b41c29cda8eda940f5390efa08.png
+          embed-timestamp: '${{ steps.date.outputs.date }}'
+
+      - name: Announce on Discord (Plus)
+        uses: tsickert/discord-webhook@v6.0.0
+        if: github.ref == 'refs/heads/paper-chan-optimized-plus' && github.event_name != 'pull_request' && (!contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[ci skip]')) && (!contains(github.event.head_commit.message, '[skip modrinth]') || contains(github.event.head_commit.message, '[ci skip modrinth]'))
+        with:
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
+          username: Kami Chan
+          avatar-url: https://cdn.modrinth.com/data/Ev7buduH/90eb465b3f8068fde66e3a300891ddc44160c9d8.png
+          embed-title: 'New Kami Chan Optimized Plus update!'
+          embed-description: '${{ steps.pack_version.outputs.value }} is now available on Modrinth! [Click here to download](${{ steps.publish-plus.outputs.modrinth-url }})'
+          embed-thumbnail-url: https://cdn.modrinth.com/data/Ev7buduH/90eb465b3f8068fde66e3a300891ddc44160c9d8.png
+          embed-timestamp: '${{ steps.date.outputs.date }}'
