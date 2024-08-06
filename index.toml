@@ -6,11 +6,11 @@ hash = "48e5c38fad6910f4b0ffe325aa13d750632e434e9a0268422549c57121fc0546"
 
 [[files]]
 file = ".github/workflows/publish.yml"
-hash = "f11475d0ce8ff0effcf489d2746c6bbb19e75430ca92efded6fd27931f0a2227"
+hash = "7ffa7708a5b63c5e3de29086dc09a9f87d3b158bef323a11a7f0295f5fb2642b"
 
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
-hash = "dd070c324d03f2942546105c622ee83cdb4f7b78379cc49bf6e9185400636d3d"
+hash = "f139b6204cebbf4553ed4abb0c04ab7081d89fecdb9fc3a1f9db5674202b37f2"
 metafile = true
 
 [[files]]
