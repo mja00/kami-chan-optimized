@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/prs.yml"
-hash = "48e5c38fad6910f4b0ffe325aa13d750632e434e9a0268422549c57121fc0546"
+hash = "bc064328b41ce9f8ce31896c36aa51abbf03e950a98b609055d5040b6d78dff8"
 
 [[files]]
 file = ".github/workflows/publish.yml"
-hash = "b35e95edf39bd78f7ee6ea34d089e85193f3d61518795f821eebf1b509399769"
+hash = "c48d2f573d7583cbb0973ef231c415ba4f994d053b1ae576c05f06453cb63ea9"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -40,12 +40,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9eb8a17e98af61f820864ce9fbe246cee75a3b86f51df8a9b92644829ea2faf8"
+hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
