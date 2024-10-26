@@ -18,6 +18,16 @@ hash = "506e3a47306b180a3ea10a47e1d856f76785d68deeafe44834ef1ed179ec59c1"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.pw.toml"
+hash = "15c2128399c6f09974ca5af95281e1139744a1dfac9f96d0d9ee1002579676cc"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "e16bea6726ffc368485770af235f000a1fc96d714b6d84897c62d69dd79b677e"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38e20fe6e426b121d2b47b637d981f433faf285a471924624f819f3f952e805b"
 metafile = true
