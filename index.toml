@@ -39,12 +39,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ee0ea9fe5f9636faa884c0e8aa7629f05ec4616290527ddf32335d154e575f58"
+hash = "0be762f5af8730650d496ce8d2691c45ac7198f723f08fe39a635f48011d40a4"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "80e0bd30f4e1d968f47e24968ca1f4fac8475ba6fa464d6c44b4aebca159be5d"
 metafile = true
 
 [[files]]
@@ -84,12 +89,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonrise-opt.pw.toml"
-hash = "b3108ceaeffa52ce94795ab62a58ecd3fe86df92673e5d6b3554f4d9920a2396"
+hash = "52cefd72a0c10a5ff45efb925153b5538fbc6bdeedb185c93e376667e3424a67"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0e8348eac8a9a76815770cd7a3358a99a1ffb0148576b3f6598774f1f54e52b4"
+hash = "a900748c1010c9feb1669e7465ecfd5351c5c73bebba87c63d07449a88066568"
 metafile = true
 
 [[files]]
@@ -98,8 +103,18 @@ hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "3b99977d06a8a31a127e0c9eade9091a767adb745f13331aa949f5e6a6cf2d84"
+metafile = true
+
+[[files]]
 file = "mods/particles.pw.toml"
 hash = "76eea7a5d99f24ba76a6d2052cb9cc74cdadf3d2369f9f744f0f8a68450b8eae"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "5def5699e80714c884ef5e173cfc24bc4b4c891f8733ed3c4b97bb07cee6e902"
 metafile = true
 
 [[files]]
@@ -108,8 +123,13 @@ hash = "50855fdced2ad535c842825b761e62b339168b9ea158e452bdd4f6467a102645"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "840bd9b6b2b845add9e3b1554eabdf93650ce33e92d03f6b99fb3f29f3623a04"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
-hash = "1ecb4ce9935c9943a66bdaae89a183a3d52c7285e27ed142854d798eb09e520d"
+hash = "72db51663f559185e1f999d6f29d277ed7090e595ea51abc484a6fed145a2cbf"
 metafile = true
 
 [[files]]
