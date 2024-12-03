@@ -18,16 +18,6 @@ hash = "506e3a47306b180a3ea10a47e1d856f76785d68deeafe44834ef1ed179ec59c1"
 metafile = true
 
 [[files]]
-file = "mods/better-beds.pw.toml"
-hash = "15c2128399c6f09974ca5af95281e1139744a1dfac9f96d0d9ee1002579676cc"
-metafile = true
-
-[[files]]
-file = "mods/bettergrassify.pw.toml"
-hash = "46b48661934ea669b59bf08cabb284a7be192a42a482ee120669a530b11faaf3"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38e20fe6e426b121d2b47b637d981f433faf285a471924624f819f3f952e805b"
 metafile = true
@@ -39,17 +29,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "455caee0f4c53abd8ae4d5f528a8b1fb513b181dffff9e9659cd746571220ee8"
+hash = "b560ec1ece536f7ad76fc7515798295683b41acf4392ccd1209397de48146496"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
-metafile = true
-
-[[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "80e0bd30f4e1d968f47e24968ca1f4fac8475ba6fa464d6c44b4aebca159be5d"
 metafile = true
 
 [[files]]
@@ -59,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a1a78f3b18ebdb5708069fe120f7b61ad4dabbf2fc3cde69fd5dc52c206cfbce"
+hash = "f54c8f372e98a3bb4808ae4643ef6c22acedf04d8fb17ef2f22b6d9e6a01310f"
 metafile = true
 
 [[files]]
@@ -69,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "743e2829fd76c27c711c54b045880f64f9e67444c78476096fec18879c441764"
+hash = "98e39484c30bf1f3c4c4400d4cfce2c7207c86dbef51c8b14acbdfcc3b0d86a3"
 metafile = true
 
 [[files]]
@@ -88,13 +73,8 @@ hash = "a503b576999c0484a8340b23b9e3ea3133e8e80a1271f2d46fb824c814905843"
 metafile = true
 
 [[files]]
-file = "mods/moonrise-opt.pw.toml"
-hash = "95a1048ad05a0e053d3d70b2b7eb7dec453601b67523e0213b22cbb0dbfdcd94"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
-hash = "d42c0dfe3b031b369a555679b263f7152630823f5624518d2b5602580ae8fe12"
+hash = "e98ab94b7a9717621219a085416783de75c84aecdab6eae5413143bfab874639"
 metafile = true
 
 [[files]]
@@ -113,23 +93,13 @@ hash = "76eea7a5d99f24ba76a6d2052cb9cc74cdadf3d2369f9f744f0f8a68450b8eae"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "375ae78c4e4cb43a9a172f6866de6011d4d01eaaede76d23a38a157663e43ff2"
-metafile = true
-
-[[files]]
 file = "mods/serverpingerfixer.pw.toml"
 hash = "50855fdced2ad535c842825b761e62b339168b9ea158e452bdd4f6467a102645"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "a18faac8593412b5ef8ee28bf49ebf7fcb16197aa4d2396dd0684b7defeb0b59"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
-hash = "105338866b8c2d65977794f70af8e44bd0db9e3951441bdaf7c64fd7697bdade"
+hash = "844a0c4a5001591c8bd14f908f4bb96d11a6892c7384b89909620df1f4689b7c"
 metafile = true
 
 [[files]]
