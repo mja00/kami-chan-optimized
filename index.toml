@@ -14,7 +14,7 @@ hash = "159de407964a39584946e371a0952a8ec9be6e0de223ac3cb9cec928a9d7b168"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "506e3a47306b180a3ea10a47e1d856f76785d68deeafe44834ef1ed179ec59c1"
+hash = "2bb6c29a5574f67ad7f1b60bad7acfb91ec2aa8bbe5455d412dd7abb2542de61"
 metafile = true
 
 [[files]]
@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "98e39484c30bf1f3c4c4400d4cfce2c7207c86dbef51c8b14acbdfcc3b0d86a3"
+hash = "fab5229d04b641be34afd2311065bca94fc8d59f9a78b9401e1dc6e9ac6dff31"
 metafile = true
 
 [[files]]
@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a503b576999c0484a8340b23b9e3ea3133e8e80a1271f2d46fb824c814905843"
+hash = "73690bd10798a8d38fbd2001b083cbe09c57997c81945ec545f3c572b2441799"
 metafile = true
 
 [[files]]
@@ -93,8 +93,18 @@ hash = "76eea7a5d99f24ba76a6d2052cb9cc74cdadf3d2369f9f744f0f8a68450b8eae"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "8d9736922772c3affc0a6845bf4ece656e3d7c576dfc3ecab2283b4b9717a290"
+metafile = true
+
+[[files]]
 file = "mods/serverpingerfixer.pw.toml"
 hash = "50855fdced2ad535c842825b761e62b339168b9ea158e452bdd4f6467a102645"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "56a0e243140dc1dbdb89c5a7a1cbcbe6e8d6da5499242bd1eabf548bbb8e3481"
 metafile = true
 
 [[files]]
