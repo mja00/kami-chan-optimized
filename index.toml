@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "099583c94720ec8089dd1a4fdbe9c475ed0764dcbba904e04dc2459089077783"
+hash = "12e4a6fd87fb7b6e7fc5e4c298595a0b2514788b6bc8f9be30988a39dca25460"
 metafile = true
 
 [[files]]
@@ -88,6 +88,11 @@ hash = "73690bd10798a8d38fbd2001b083cbe09c57997c81945ec545f3c572b2441799"
 metafile = true
 
 [[files]]
+file = "mods/moonrise-opt.pw.toml"
+hash = "b5cdcfd4e4331532d191fb8966cfc0492f8711a6701a2b01f80a5b294dd6c51c"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "8cd7ef0e7719d1e7edc6d68a3723ccb13a0b6adcf5fc38346692f725396484b5"
 metafile = true
@@ -129,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ce3c7625502d2e0cf4dccf1685006d47a1f59cabf0b33e08fb7623edcd357bde"
+hash = "9e86081bcaf8e26343f5d3a70549abd5130788dca766cea9bb8bdd47f1d65ed6"
 metafile = true
 
 [[files]]
