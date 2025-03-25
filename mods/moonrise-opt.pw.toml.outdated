@@ -1,0 +1,13 @@
+name = "Moonrise"
+filename = "Moonrise-Fabric-0.2.0-beta.9+ac0c7de.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KOHu7RCS/versions/6Dgh9jQx/Moonrise-Fabric-0.2.0-beta.9%2Bac0c7de.jar"
+hash-format = "sha512"
+hash = "c101f1a41db4095d651d32eae47bd7e6f7358f7390898610d1bf261ebfc7e0f4165fd551c08a99cca31a3308f1989a16b8c75c1ece60ef9cd475107ca4f4219e"
+
+[update]
+[update.modrinth]
+mod-id = "KOHu7RCS"
+version = "6Dgh9jQx"
