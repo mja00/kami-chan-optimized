@@ -4,3 +4,4 @@
 /mods/*.disabled
 /mods/*.works
 /mods/*.outdated
+check-outdated.py
