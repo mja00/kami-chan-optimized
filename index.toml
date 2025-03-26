@@ -23,8 +23,13 @@ hash = "8ef7235675c71f938772fe5683b1b56cd952d3865a66cfd02dc8f3707d7f72b3"
 metafile = true
 
 [[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "edbed5e708caab35dbe3ea9f00b8a44f3e66a48ff64e81db153e4442249fea80"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
+hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
@@ -75,6 +80,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "f08109925ea37a67f4fe60eb44a0bbed52a8a14b9ee56da7173f8116363826b3"
 metafile = true
 
 [[files]]
