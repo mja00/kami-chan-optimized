@@ -29,7 +29,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "9221afe223b693c13e2dfac3c45bf2bb6bf3050f0a6a9c582d7634266b0fbd2e"
+hash = "b4d85c87d21d79bc7e24bbab04de050cc8d7f6fc6c9ebb1fd4e7d8f885016350"
 metafile = true
 
 [[files]]
@@ -53,13 +53,18 @@ hash = "d80049f4f9438f229920965bfbd1354a23165747a1f84e9b39ab8333bce527c5"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "9b7adaecaf408656fbb6011735c8003fa87a020dcc83783b1e0e71310e462cb3"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ea22db8c3deb65c78156eddc87833f8bfe614b550e021284358810f89ad0acce"
+hash = "8dc8454a6e68e214420cacebb146c3b19eb3d9a678aa1b517545d637ad48fc53"
 metafile = true
 
 [[files]]
@@ -69,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f6c642eb45799f34f9a3eb85627d479709104df2f14c670a2170ea0c9d90eaad"
+hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
 metafile = true
 
 [[files]]
@@ -94,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "78b0a9102dbe17a261865d2bcd9120ac51021e656d96b57f1f404f3aa4d623e2"
+hash = "477ec070ee28993084640f772e546e1eb6f02704af5bb378c813b52949f263ee"
 metafile = true
 
 [[files]]
