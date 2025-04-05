@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "760fa5f6840b4b5a929222cae241fe7d9166caad02caa9d5f67cf033536119e0"
+hash = "c09ef02727d7b388c8ece69dc61457495d3ad888d2b10f756749e926bd4cdaad"
 metafile = true
 
 [[files]]
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
+hash = "9445550cf3fcfaaa145d60528e01c55d2fa798bcfc1232c141ddf3b94b6e0022"
 metafile = true
 
 [[files]]
@@ -124,12 +124,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "477ec070ee28993084640f772e546e1eb6f02704af5bb378c813b52949f263ee"
+hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
 metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
+hash = "bb4f9c3fcaaea6b20360ac5dac986fcf20b00dee12587760d17aebf25e645217"
 metafile = true
 
 [[files]]
