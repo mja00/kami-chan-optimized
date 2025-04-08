@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2e06b604a52b4de2cd14a3debe656a75abbb876b769e116abb91f31de32cb4dc"
+hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
 metafile = true
 
 [[files]]
@@ -80,6 +80,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
