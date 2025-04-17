@@ -34,7 +34,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b4d85c87d21d79bc7e24bbab04de050cc8d7f6fc6c9ebb1fd4e7d8f885016350"
+hash = "6776faa0af7b67803be2671ebc8c8d25f3ebbdb498cf7457b8bf6baea65a5f9b"
 metafile = true
 
 [[files]]
@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c09ef02727d7b388c8ece69dc61457495d3ad888d2b10f756749e926bd4cdaad"
+hash = "9fb9f5a25c9ac4fd320b743148c049768bffeb38678194c1ab31a1946604ee9c"
 metafile = true
 
 [[files]]
@@ -108,6 +108,11 @@ hash = "9445550cf3fcfaaa145d60528e01c55d2fa798bcfc1232c141ddf3b94b6e0022"
 metafile = true
 
 [[files]]
+file = "mods/particles.pw.toml"
+hash = "36d464e0d40946dc8e1031cd293042f332cba1c6ac6fd6286ca09c8b75f3a0bf"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "f599da7c46d2acdca321efcf35d78c53d69a73168e86344971b857bc2c754932"
 metafile = true
@@ -134,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "bb4f9c3fcaaea6b20360ac5dac986fcf20b00dee12587760d17aebf25e645217"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
 
 [[files]]
