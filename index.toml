@@ -6,7 +6,7 @@ hash = "bc064328b41ce9f8ce31896c36aa51abbf03e950a98b609055d5040b6d78dff8"
 
 [[files]]
 file = ".github/workflows/publish.yml"
-hash = "c48d2f573d7583cbb0973ef231c415ba4f994d053b1ae576c05f06453cb63ea9"
+hash = "d856fe2422d059b4dc604c36b2d40139b6ba3449fa3368f597cfb3bc7a3f93a5"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "edbed5e708caab35dbe3ea9f00b8a44f3e66a48ff64e81db153e4442249fea80"
+hash = "42e205b3e26dcc7778b5d2d75522422ab55b77ea8acfb6cabaed3e8291e1319a"
 metafile = true
 
 [[files]]
@@ -34,7 +34,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6776faa0af7b67803be2671ebc8c8d25f3ebbdb498cf7457b8bf6baea65a5f9b"
+hash = "a119aa71d4ec78d6ef21bc8c409a2e2a938d493b7f7aacfa63c0998e8d370e11"
 metafile = true
 
 [[files]]
@@ -44,12 +44,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "39e74c68e13599c9f8a5e00a07085988d34e3757e56be89503dd2259ebd12f5d"
+hash = "528200f74061ca4d9ca1e1e65d932fd7fd49a071cef36912f117a4b2a0a537cf"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
+hash = "2449e4f29f167ff8453e67d0d4fc47294523e2ca9dce022d1a5670cd2ed49808"
 metafile = true
 
 [[files]]
@@ -93,13 +93,18 @@ hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
 metafile = true
 
 [[files]]
+file = "mods/moonrise-opt.pw.toml"
+hash = "56cb95764b390e166719dbf8de12618244e7e999895594a50cdaea9d8b3c25aa"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "8d250e4781a41beb98270b2f36e042415067f92081c6fcf843d7ea89a61b4cdc"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
+hash = "1f9c70510fe21d5028a900ae31923e12c4bc4d7bbc38937f9c90ef75385ae6b7"
 metafile = true
 
 [[files]]
