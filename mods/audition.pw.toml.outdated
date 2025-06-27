@@ -1,0 +1,13 @@
+name = "Audition"
+filename = "audition-1.0.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HMeGkqZ7/versions/xm8tDlM4/audition-1.0.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "c1b091eeac7898dc656992612bf98d352a2c8fc442b11df84bd29464a3a59e4b01dd03771bbaa5bb786b866e9686169d5057e59dbd3e51be73acd254b3c5bfcf"
+
+[update]
+[update.modrinth]
+mod-id = "HMeGkqZ7"
+version = "xm8tDlM4"

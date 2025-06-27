@@ -1,0 +1,13 @@
+name = "Am I Up To Date?"
+filename = "aiutd-1.0.6-1.21.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tgacmJEn/versions/x0wSRdfT/aiutd-1.0.6-1.21.6.jar"
+hash-format = "sha512"
+hash = "1afaf1385f3c633c457390f7c50ed452f5a1ceed7138949763a13d771b64a588cd27666c8515becff91f35773f2317eed5cda6178183797e6d7a01db5d9e932e"
+
+[update]
+[update.modrinth]
+mod-id = "tgacmJEn"
+version = "x0wSRdfT"

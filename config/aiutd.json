@@ -1,0 +1,16 @@
+{
+  "menuAlert": true,
+  "chatAlert": true,
+  "localVersion": "14.3.0",
+  "versionAPI": "https://api.modrinth.com/v2/project/sQ1MQcd2/version",
+  "changelogLink": "https://modrinth.com/modpack/kami-chan-optimized/changelog",
+  "maxChecks": 5,
+  "multiVersion": false,
+  "multiLoaderBool": false,
+  "multiLoader": "FABRIC",
+  "useModpackName": true,
+  "modpackName": "Kami Chan Optimized",
+  "useCustomMessage": true,
+  "customMessage": "Ensure you're using the latest version of the pack!",
+  "linkChangelog": false
+}

@@ -9,8 +9,13 @@ file = ".github/workflows/publish.yml"
 hash = "d856fe2422d059b4dc604c36b2d40139b6ba3449fa3368f597cfb3bc7a3f93a5"
 
 [[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "159de407964a39584946e371a0952a8ec9be6e0de223ac3cb9cec928a9d7b168"
+file = "config/aiutd.json"
+hash = "e4d4f9db78ccbc7c6921b390c116f322e81d71047b56c39c8785f1b20d38f43d"
+
+[[files]]
+file = "mods/aiutd.pw.toml"
+hash = "a408f6de86c432a0ec524ab15f22687fe35558246630baf8eee3a74bae20ac0f"
+metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -60,6 +65,11 @@ metafile = true
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "d80049f4f9438f229920965bfbd1354a23165747a1f84e9b39ab8333bce527c5"
+metafile = true
+
+[[files]]
+file = "mods/gputape.pw.toml"
+hash = "1679bf969162c01ae8f2e3e479f3179075c1430491f05c58f71a51d7e9675a07"
 metafile = true
 
 [[files]]
@@ -145,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
+file = "mods/super-fast-math.pw.toml"
+hash = "8c64c3ab733f1bcc4d614ea5f0912b85307295299c57f0d0d46d7f1a171a815c"
 metafile = true
 
 [[files]]
