@@ -10,7 +10,7 @@ hash = "d856fe2422d059b4dc604c36b2d40139b6ba3449fa3368f597cfb3bc7a3f93a5"
 
 [[files]]
 file = "config/aiutd.json"
-hash = "7c7c61a8ec5e34755d5723f42a8134c079a3f6eb7616e4a76cc0dc4356f8a7e6"
+hash = "ee347ebe8a36dfc356ad34103619b2a6c5b5b14276ce9ce0e23e5a9516784ec5"
 
 [[files]]
 file = "mods/aiutd.pw.toml"

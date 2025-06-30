@@ -1,7 +1,7 @@
 {
   "menuAlert": true,
   "chatAlert": true,
-  "localVersion": "14.3.0",
+  "localVersion": "15.0.1",
   "versionAPI": "https://api.modrinth.com/v2/project/sQ1MQcd2/version",
   "changelogLink": "https://modrinth.com/modpack/kami-chan-optimized/changelog",
   "maxChecks": 5,
