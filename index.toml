@@ -10,7 +10,7 @@ hash = "d856fe2422d059b4dc604c36b2d40139b6ba3449fa3368f597cfb3bc7a3f93a5"
 
 [[files]]
 file = "config/aiutd.json"
-hash = "e4d4f9db78ccbc7c6921b390c116f322e81d71047b56c39c8785f1b20d38f43d"
+hash = "7c7c61a8ec5e34755d5723f42a8134c079a3f6eb7616e4a76cc0dc4356f8a7e6"
 
 [[files]]
 file = "mods/aiutd.pw.toml"
@@ -49,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3eaeb9f0bd3ce711cf42f9edc1397bb7ce4e2974d7fc54d2356e01f2e0a4504d"
+hash = "f147a115ed7b2e1d8d28c349178ed58a381e7edd6d719648eff6333cbf40e88c"
 metafile = true
 
 [[files]]
@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3b40d08928ac413cc62a4fc93497aad63b3928f1aa5d94abe36c6239871e979f"
+hash = "9d6b46943f6ad2518f3acb4598d4afdb74843a069dde3cd7c9fa8dd89723de50"
 metafile = true
 
 [[files]]
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e3ed2c112bfe0abbc4d2c52c7d4c2086fe136e133784775c2f5a43d8f899868c"
+hash = "f9acd9fa6c8e3e28c54f196c3840ae9227265a966d511e21be5056951706ea00"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonrise-opt.pw.toml"
-hash = "cf8554a4a8a030439a028d29c3b7d7f80df78844e4455e7532d1a8d1d4b6634f"
+hash = "9eca7707a74fba6ee808d414e6cf1e57c79bb95c5669a801f0c6a5fa30063ffc"
 metafile = true
 
 [[files]]
