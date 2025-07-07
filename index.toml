@@ -9,15 +9,6 @@ file = ".github/workflows/publish.yml"
 hash = "d856fe2422d059b4dc604c36b2d40139b6ba3449fa3368f597cfb3bc7a3f93a5"
 
 [[files]]
-file = "config/aiutd.json"
-hash = "ee347ebe8a36dfc356ad34103619b2a6c5b5b14276ce9ce0e23e5a9516784ec5"
-
-[[files]]
-file = "mods/aiutd.pw.toml"
-hash = "a408f6de86c432a0ec524ab15f22687fe35558246630baf8eee3a74bae20ac0f"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
 metafile = true
@@ -43,13 +34,23 @@ hash = "7ade9694388d80def1aba6b3653a1a0ea8a68eb14a42e2bffd076fd1335a5ce8"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "b001c3a1852a1293e83d32fb0850c4da6aaf2ef100b5140cb1ce7d2885b178fd"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
-hash = "61f61ef4f1e75f5cc4840e97222648ea4de025a69658051625c515381c133d4f"
+hash = "8ccbbc90eb037c9b721bc148bda7472e8cb0dd682593382c95aa8c2a58c23412"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "f4d7523b2a6d6c167ecf2e19964898f1fcdf060a15553b05fa1d5dd41a56c373"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f147a115ed7b2e1d8d28c349178ed58a381e7edd6d719648eff6333cbf40e88c"
+hash = "3ab863279b0298b5782884d871201457f2dc8b6d28ef112621a2a91cdb4b1226"
 metafile = true
 
 [[files]]
@@ -65,6 +66,16 @@ metafile = true
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "d80049f4f9438f229920965bfbd1354a23165747a1f84e9b39ab8333bce527c5"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "da813344df753d00ddb46f6b82a2e8a6f42c9119fbe827f201fbd409f5cde4b5"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "96f524838c46e199ba08f03191758da2426754a1d39bd7f76a3e09115254b928"
 metafile = true
 
 [[files]]
@@ -123,8 +134,8 @@ hash = "43aea184f4522b8219d178ba91e12874e3f2e22ac32fcd72a22519ddcdc671ce"
 metafile = true
 
 [[files]]
-file = "mods/particles.pw.toml"
-hash = "36d464e0d40946dc8e1031cd293042f332cba1c6ac6fd6286ca09c8b75f3a0bf"
+file = "mods/particle-core.pw.toml"
+hash = "4ed5bf9e808739ddeec2692fbd7c16b3df653f1b2823de3f07e5dced1c5fc439"
 metafile = true
 
 [[files]]
