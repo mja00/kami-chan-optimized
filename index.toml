@@ -10,7 +10,7 @@ hash = "d856fe2422d059b4dc604c36b2d40139b6ba3449fa3368f597cfb3bc7a3f93a5"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
+hash = "01013db5d43a8e041bfb70f5f88d4940cc4a6eefd620577df20954bd0ab6004d"
 metafile = true
 
 [[files]]
@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3ab863279b0298b5782884d871201457f2dc8b6d28ef112621a2a91cdb4b1226"
+hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9d6b46943f6ad2518f3acb4598d4afdb74843a069dde3cd7c9fa8dd89723de50"
+hash = "3447c30e10bb52798f1bb68c86a3c4d800139af22056baa8ae406b788e1d8548"
 metafile = true
 
 [[files]]
