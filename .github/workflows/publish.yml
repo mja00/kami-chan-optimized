@@ -122,7 +122,7 @@ jobs:
           username: Kami Chan
           avatar-url: https://cdn.modrinth.com/data/sQ1MQcd2/16cd6db5088b78b41c29cda8eda940f5390efa08.png
           embed-title: 'New Kami Chan Optimized update!'
-          embed-description: '${{ steps.pack_version.outputs.value }} is now available on Modrinth! [Click here to download](${{ steps.publish-main.outputs.modrinth-url }})'
+          embed-description: '${{ steps.pack_version.outputs.value }} for Minecraft ${{ steps.pack_minecraft.outputs.value }} is now available on Modrinth! [Click here to download](${{ steps.publish-main.outputs.modrinth-url }})'
           embed-thumbnail-url: https://cdn.modrinth.com/data/sQ1MQcd2/16cd6db5088b78b41c29cda8eda940f5390efa08.png
           embed-timestamp: '${{ steps.date.outputs.date }}'
 
@@ -134,6 +134,6 @@ jobs:
           username: Kami Chan
           avatar-url: https://cdn.modrinth.com/data/Ev7buduH/90eb465b3f8068fde66e3a300891ddc44160c9d8.png
           embed-title: 'New Kami Chan Optimized Plus update!'
-          embed-description: '${{ steps.pack_version.outputs.value }} is now available on Modrinth! [Click here to download](${{ steps.publish-plus.outputs.modrinth-url }})'
+          embed-description: '${{ steps.pack_version.outputs.value }} for Minecraft ${{ steps.pack_minecraft.outputs.value }} is now available on Modrinth! [Click here to download](${{ steps.publish-plus.outputs.modrinth-url }})'
           embed-thumbnail-url: https://cdn.modrinth.com/data/Ev7buduH/90eb465b3f8068fde66e3a300891ddc44160c9d8.png
           embed-timestamp: '${{ steps.date.outputs.date }}'
