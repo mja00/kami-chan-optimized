@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
+hash = "70ef4c56ac7d929c6d7b86b0922450df1fdd4bd7042a77f5b57ec73e13701466"
 metafile = true
 
 [[files]]
@@ -70,22 +70,17 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "da813344df753d00ddb46f6b82a2e8a6f42c9119fbe827f201fbd409f5cde4b5"
+hash = "e35644a061543c604ae631f593c189570e43fa4bfb8d47d10be9fe3655075238"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "96f524838c46e199ba08f03191758da2426754a1d39bd7f76a3e09115254b928"
+hash = "1c2afb59201aa276f4dd57c8af87125a1193c73758f6de4849205f866fe6fe35"
 metafile = true
 
 [[files]]
 file = "mods/gputape.pw.toml"
 hash = "1679bf969162c01ae8f2e3e479f3179075c1430491f05c58f71a51d7e9675a07"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "3447c30e10bb52798f1bb68c86a3c4d800139af22056baa8ae406b788e1d8548"
 metafile = true
 
 [[files]]
@@ -111,11 +106,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
-metafile = true
-
-[[files]]
-file = "mods/moonrise-opt.pw.toml"
-hash = "9eca7707a74fba6ee808d414e6cf1e57c79bb95c5669a801f0c6a5fa30063ffc"
 metafile = true
 
 [[files]]
