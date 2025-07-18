@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/prs.yml"
-hash = "bc064328b41ce9f8ce31896c36aa51abbf03e950a98b609055d5040b6d78dff8"
-
-[[files]]
-file = ".github/workflows/publish.yml"
-hash = "d856fe2422d059b4dc604c36b2d40139b6ba3449fa3368f597cfb3bc7a3f93a5"
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "01013db5d43a8e041bfb70f5f88d4940cc4a6eefd620577df20954bd0ab6004d"
 metafile = true
@@ -84,6 +76,11 @@ hash = "1679bf969162c01ae8f2e3e479f3179075c1430491f05c58f71a51d7e9675a07"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "cf0b694687c823b69ebb1cc78f72fdd83cc86c106354b30a7c157f4ca534c9ef"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
@@ -106,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-opt.pw.toml"
+hash = "d4ed530a3a278079be0024a2c7d6309c1f577c2a0d97922fc9e7af52b9bf01a9"
 metafile = true
 
 [[files]]
