@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "b142575f02e92313bbf70fa85b0a3ae18b23d5da7bb8811b0012dbe5d5fe597a"
+hash = "fe9c77327c94f4a60632f3a56a7a9496f9f2f00e12ab42541eb433266a423b16"
 metafile = true
 
 [[files]]
@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "d80049f4f9438f229920965bfbd1354a23165747a1f84e9b39ab8333bce527c5"
+hash = "f0b705b810fc48523a67a90f218ae8085206b08421e2a006561169bf2847a907"
 metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "e35644a061543c604ae631f593c189570e43fa4bfb8d47d10be9fe3655075238"
+hash = "8bff25d674f24c0bebc11c6734f992210505a12b339a0bb701579a04e9a76f9a"
 metafile = true
 
 [[files]]
