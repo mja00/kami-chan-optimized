@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "01013db5d43a8e041bfb70f5f88d4940cc4a6eefd620577df20954bd0ab6004d"
-metafile = true
-
-[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "8ef7235675c71f938772fe5683b1b56cd952d3865a66cfd02dc8f3707d7f72b3"
 metafile = true
@@ -21,28 +16,8 @@ hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "7ade9694388d80def1aba6b3653a1a0ea8a68eb14a42e2bffd076fd1335a5ce8"
-metafile = true
-
-[[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "7a409a13d5f8bb087ff615dc5947b3f26c6bacec22618d8d733d8d4789fb3543"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "7c4546596b6fd83100cc63703a9da38c425f72e2f7753f3c64e92a79edb2bf8b"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "84f74d4abc0ece0ed9f62d9454d35415ace97e0aa83ed3e8a2d1ff7167b45999"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f9b05ef1c6fb7e4d1c44b9468d7deacfe493d9f34182587e21ef1cb696fc677e"
+hash = "6a609c78b833b9881aa68a5fcd70f34c357686fae18ec79ff3990527d16bef69"
 metafile = true
 
 [[files]]
@@ -56,16 +31,6 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
-file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "f0b705b810fc48523a67a90f218ae8085206b08421e2a006561169bf2847a907"
-metafile = true
-
-[[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "e183674025244ef6192a3de27b8f7ba9479c2946a07d47b18c69faca939ea123"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "35476f21ef1352e2f0d155e5810eb93d00c1c85bc455e5f1d92cb3d727a551f3"
 metafile = true
@@ -73,16 +38,6 @@ metafile = true
 [[files]]
 file = "mods/gputape.pw.toml"
 hash = "1679bf969162c01ae8f2e3e479f3179075c1430491f05c58f71a51d7e9675a07"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "f9acd9fa6c8e3e28c54f196c3840ae9227265a966d511e21be5056951706ea00"
 metafile = true
 
 [[files]]
@@ -96,58 +51,13 @@ hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
-metafile = true
-
-[[files]]
-file = "mods/moonrise-opt.pw.toml"
-hash = "d4ed530a3a278079be0024a2c7d6309c1f577c2a0d97922fc9e7af52b9bf01a9"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "70676593e513e1499486765b8f654cb5034a20a2642a3bcc61a6f57c9d985972"
-metafile = true
-
-[[files]]
 file = "mods/noisium.pw.toml"
 hash = "54dd8b88e92786d96c2487b7d6a473fbb7cd4576cec3a543788cfab327ffd623"
 metafile = true
 
 [[files]]
-file = "mods/optigui.pw.toml"
-hash = "aaa113528d488df3744621e67362de6b2db57116109256b06277974127007a28"
-metafile = true
-
-[[files]]
-file = "mods/particle-core.pw.toml"
-hash = "4ed5bf9e808739ddeec2692fbd7c16b3df653f1b2823de3f07e5dced1c5fc439"
-metafile = true
-
-[[files]]
-file = "mods/puzzle.pw.toml"
-hash = "6d9742689a524965f89b5cb1194e4422f2454911a026fd9e98dce82db4a12157"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
-metafile = true
-
-[[files]]
 file = "mods/serverpingerfixer.pw.toml"
 hash = "50855fdced2ad535c842825b761e62b339168b9ea158e452bdd4f6467a102645"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "d3ce7c562cb2d457391f3ea7992f1018055544035097547d9bc2d30b7429c8ea"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
 metafile = true
 
 [[files]]
@@ -158,9 +68,4 @@ metafile = true
 [[files]]
 file = "mods/super-fast-math.pw.toml"
 hash = "8c64c3ab733f1bcc4d614ea5f0912b85307295299c57f0d0d46d7f1a171a815c"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "2b5d3c348ca65dc07ae8d9796ab4609588788dcad0ea6501f342b0086e5a1fdc"
 metafile = true
