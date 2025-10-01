@@ -16,8 +16,13 @@ hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "d541d1522108112346d35a6e9a3a9979d735cfc766d3ea6477c6306450c35f23"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c9fa1962b18931a1efdb87302d1c73d1ab29423fecc9b3ee48228bd2e039d25f"
+hash = "c3b72a68903d903b47dd9fac9d03b190b7c6b3b9f9c5a4e5f599afba109c6a17"
 metafile = true
 
 [[files]]
@@ -31,6 +36,11 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "f3c666b7a4140f9944920c8279ba897feb3e7ec48086d9b10862ea9b012aeacb"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "35476f21ef1352e2f0d155e5810eb93d00c1c85bc455e5f1d92cb3d727a551f3"
 metafile = true
@@ -38,6 +48,16 @@ metafile = true
 [[files]]
 file = "mods/gputape.pw.toml"
 hash = "1679bf969162c01ae8f2e3e479f3179075c1430491f05c58f71a51d7e9675a07"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "ac9c6e202635d1ceccdf7171efd671196f02c1710ab99b2014e0139fdfaedfaa"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "70dc9abe83d7c369d9c349f8b5a188984de24d1e98d282fdb173bf06b845a76b"
 metafile = true
 
 [[files]]
@@ -51,6 +71,11 @@ hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "5f714a0097efe7bd71ce351f959cc9b9ec66e15d969fb4f77e315aaed7a3a342"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "54dd8b88e92786d96c2487b7d6a473fbb7cd4576cec3a543788cfab327ffd623"
 metafile = true
@@ -61,6 +86,11 @@ hash = "50855fdced2ad535c842825b761e62b339168b9ea158e452bdd4f6467a102645"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "88e1cf290eb023af36efe7b20d1fb880597326d132189763b293a644c203ebfb"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
@@ -68,4 +98,9 @@ metafile = true
 [[files]]
 file = "mods/super-fast-math.pw.toml"
 hash = "8c64c3ab733f1bcc4d614ea5f0912b85307295299c57f0d0d46d7f1a171a815c"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "f82809b1d8eaab731b217b01589ab13e1374c4d422f18640ba3262b55f3b4cfa"
 metafile = true
