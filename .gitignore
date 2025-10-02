@@ -7,5 +7,3 @@ packwiz
 # Exclude exported Modrinth modpacks
 *.mrpack
 .DS_Store
-
-check-outdated.py
