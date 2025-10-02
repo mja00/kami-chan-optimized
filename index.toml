@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "e02301182da87b4b64f362e7b67a0faebc2a94f12d6c68b3d7ab24bfe4cffeec"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "8ef7235675c71f938772fe5683b1b56cd952d3865a66cfd02dc8f3707d7f72b3"
 metafile = true
@@ -22,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c3b72a68903d903b47dd9fac9d03b190b7c6b3b9f9c5a4e5f599afba109c6a17"
+hash = "48a71da0cd96100ccc239fa88fb6280094f0a0b1a555a2bdcc2e58dc2d7ebcc5"
 metafile = true
 
 [[files]]
@@ -72,12 +77,17 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "5f714a0097efe7bd71ce351f959cc9b9ec66e15d969fb4f77e315aaed7a3a342"
+hash = "204a4b3b041fad4bb4dc543c74d540fcf239710494d2130cebe700bf1d8a7805"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "54dd8b88e92786d96c2487b7d6a473fbb7cd4576cec3a543788cfab327ffd623"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "978c05608ae60f7e40925d145910c124bb90db5db0ea8f8786fccd677eced4d6"
 metafile = true
 
 [[files]]
