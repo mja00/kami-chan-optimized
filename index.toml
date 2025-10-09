@@ -146,11 +146,6 @@ hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
 
 [[files]]
-file = "mods/super-fast-math.pw.toml"
-hash = "8c64c3ab733f1bcc4d614ea5f0912b85307295299c57f0d0d46d7f1a171a815c"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "f82809b1d8eaab731b217b01589ab13e1374c4d422f18640ba3262b55f3b4cfa"
 metafile = true
