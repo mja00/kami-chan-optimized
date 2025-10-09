@@ -31,13 +31,18 @@ hash = "d980c9bbc31a2fbac6070ed2c8992e2f1527839c54c4299d7a52f015775d8067"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5b98610394fb09edf7619d398fcfdad81f0500bd5ead421492d1d7ff6d8b534f"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "9a816f2d1841566fa111d67830df9e429df90c1e77eac417f01aea1a9047def8"
+hash = "2a9e9968c598e234a84ccd9afc80a424d5c2ad9a37e4c85a0d36d06ddc9ebfa9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f1d73d7f9dfe612183c92044578ec1a0a6823f4e940562992c0a103ba881f344"
+hash = "79625467f94812a83eb6fbf4e1d3884418937cc5b07fc708d05b7ab11dac16a5"
 metafile = true
 
 [[files]]
