@@ -1,11 +1,20 @@
 # flake8: noqa: E501
 import os
+import sys
 import tomllib
 import tomli_w
 import subprocess
 from git import Repo
 import re
 import argparse
+
+
+def get_packwiz_command():
+    """Return the appropriate packwiz command based on the operating system."""
+    if sys.platform == "win32":
+        return "./packwiz.exe"
+    else:
+        return "./packwiz"
 
 
 def parse_semver(version_string):
@@ -34,7 +43,7 @@ def get_outdated_mods():
 
 def refresh_index():
     try:
-        subprocess.run(["./packwiz.exe", "refresh"], capture_output=True, check=True)
+        subprocess.run([get_packwiz_command(), "refresh"], capture_output=True, check=True)
     except subprocess.CalledProcessError:
         pass  # Ignore errors in refresh
 
@@ -49,7 +58,7 @@ def attempt_update(mod: str, info: dict):
         print(f"Updating {info['name']}")
         # We want to run ./packwiz.exe update with the mod name
         # We also want to capture the output to determine if it was successful
-        result = subprocess.run(["./packwiz.exe", "update", mod_name, "-y"], capture_output=True, text=True, check=False)
+        result = subprocess.run([get_packwiz_command(), "update", mod_name, "-y"], capture_output=True, text=True, check=False)
         # print(result.stdout)
         filename = info["filename"]
         # A common output of this is:
@@ -122,7 +131,7 @@ def main(args):
 
     # Then just run ./packwiz.exe update --all -y for good measure
     try:
-        results = subprocess.run(["./packwiz.exe", "update", "--all", "-y"], capture_output=True, text=True, check=False)
+        results = subprocess.run([get_packwiz_command(), "update", "--all", "-y"], capture_output=True, text=True, check=False)
         # Parse how many mods were updated. These are lines that'll be *.jar -> *.jar
         packwiz_updated_mods = [line for line in results.stdout.split("\n") if "->" in line]
         print(f"Updated {len(packwiz_updated_mods)} mods")
