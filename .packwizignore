@@ -6,3 +6,4 @@
 /mods/*.outdated
 check-outdated.py
 .github/
+venv/
