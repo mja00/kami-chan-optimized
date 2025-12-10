@@ -41,6 +41,11 @@ hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "50823daac2d72247bc37a87e9c095615815c641bfa6acff261f838aa7bbe55c5"
+metafile = true
+
+[[files]]
 file = "mods/gputape.pw.toml"
 hash = "87a0a56a4cdc0c3a4bffc41f1902c99eefc3aa5f9504005bfda5a1ffcbb1b50e"
 metafile = true
@@ -52,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b26e4fd753b675860db0d6a1adfec78bde1b0bb178e419f3f91a0a16f2776e1f"
+hash = "e7e614a628196a9985630d6ce763c475ead83ff037a935a2b06a5536e694deb8"
 metafile = true
 
 [[files]]
@@ -61,8 +66,13 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6dbca2c20d66b076bb4e8959ea0e26887991acf48f785aae402e066d5e3eb6ea"
+metafile = true
+
+[[files]]
 file = "mods/moonrise-opt.pw.toml"
-hash = "7c0ca1a4ca4c3345a83628a897cb1d0c5332d2e7cd1b46d76cf7b837ad7bdee0"
+hash = "2a61a08e39ea21bb9652683bf239345b04af91bf439c4ec60a6246b7cb37b9f4"
 metafile = true
 
 [[files]]
