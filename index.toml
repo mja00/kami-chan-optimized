@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "9b51f5e9d6c68b2625adf0c21b6602f16c994ce2d5de0c01b1a469b36b6decdd"
+hash = "72f3dbfcfbf16d8437d865b090c4338cf32de86f290e8e8dde5626cb301bb4c7"
 metafile = true
 
 [[files]]
@@ -41,6 +41,11 @@ hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "a2b8984f27222d3cad6886a3ae87c617b0f722e22292f4d6859e2c5f7658e25f"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "50823daac2d72247bc37a87e9c095615815c641bfa6acff261f838aa7bbe55c5"
 metafile = true
@@ -57,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e7e614a628196a9985630d6ce763c475ead83ff037a935a2b06a5536e694deb8"
+hash = "442468b81b595bb843af8ca225b51dbf5389f3ddaf07c009d1d2e6bc9f8d7610"
 metafile = true
 
 [[files]]
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/moonrise-opt.pw.toml"
 hash = "2a61a08e39ea21bb9652683bf239345b04af91bf439c4ec60a6246b7cb37b9f4"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "05e66fdfaf3f922718f38a18090c498d612160d342a7e3846fb7f666cf8bac3d"
 metafile = true
 
 [[files]]
