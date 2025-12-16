@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "fa1d1286d8bc03ae99442535edd1e3c134ea859b861089e21d8b503e7cba4c67"
+hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
 metafile = true
 
 [[files]]
@@ -23,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "0d12dd9a11aff82f65a691d7b9d54c106eb870a5b27f614b1584571e300d00a2"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "09d9bcf41357ee2baf28a26418bc1ed5d68ad7044252e976081295bde8dddb2e"
 metafile = true
 
 [[files]]
@@ -47,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "50823daac2d72247bc37a87e9c095615815c641bfa6acff261f838aa7bbe55c5"
+hash = "6fac51934b11d918d973a004f9de8519b8288d82c8298b9ebd234535613cbb84"
 metafile = true
 
 [[files]]
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "10e5927ba9ddb93e40ab50990b34317069a2dc251109dbc24177eaca8b082275"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "8eb360a7056cd39f75c60123c9f4069dd607c67862fe22d1d83397f87d4e485a"
 metafile = true
 
 [[files]]
