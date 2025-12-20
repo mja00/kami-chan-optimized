@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "72f3dbfcfbf16d8437d865b090c4338cf32de86f290e8e8dde5626cb301bb4c7"
+hash = "aed9bbc1e24a8db8f57a9bea98460638abf832aaa5281d607657bd3063022348"
 metafile = true
 
 [[files]]
@@ -58,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "a2b8984f27222d3cad6886a3ae87c617b0f722e22292f4d6859e2c5f7658e25f"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "b5a01826b0ec0ea8c8e1fe0eab064729c0b532b738788cc93eed03ca5c897cb6"
 metafile = true
 
 [[files]]
