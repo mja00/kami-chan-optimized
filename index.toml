@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "aed9bbc1e24a8db8f57a9bea98460638abf832aaa5281d607657bd3063022348"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "816a274a51586b2a1e328b70fef8aba88c8e0c64205bebb2773cde8bc205f20f"
+hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "6fac51934b11d918d973a004f9de8519b8288d82c8298b9ebd234535613cbb84"
+hash = "6f8f908c216a72efc2aab289578eeb4399a259eae29fbac8bcc88df840e3c0bf"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6dbca2c20d66b076bb4e8959ea0e26887991acf48f785aae402e066d5e3eb6ea"
+hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
 metafile = true
 
 [[files]]
