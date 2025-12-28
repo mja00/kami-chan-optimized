@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "a2b8984f27222d3cad6886a3ae87c617b0f722e22292f4d6859e2c5f7658e25f"
+hash = "db1b2a280e596ea170ab575abc74ac9da9afdd9d4f8108e330cdcb034f8e4c55"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "80fe8de18aab2ba3399f61c6a74a4ad70e56bf5ed49f5fc0f051190d3ba59f2b"
+hash = "4e4627ce19e119721a27a2ef00769d3a744f36db67d11ad3959d785462aefe1f"
 metafile = true
 
 [[files]]
