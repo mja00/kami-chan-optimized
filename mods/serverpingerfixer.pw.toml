@@ -1,13 +1,13 @@
 name = "Server Pinger Fixer"
-filename = "serverpingerfixer-1.0.5.jar"
+filename = "serverpingerfixer+26.1-1.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/iqK5uv72/versions/x7vxzThG/serverpingerfixer-1.0.5.jar"
-hash-format = "sha1"
-hash = "9ae83d512cc2edeec9cc0ea223a142a93b7fa7bb"
+url = "https://cdn.modrinth.com/data/iqK5uv72/versions/5xfjHyo4/serverpingerfixer%2B26.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "3f313b0918e3b8dbb46ded7445c11ffaa650e52852c0389adbc2eb464706cd09f9add63743492bd60c3d6968243f36074e4cd50c249fe049f220290476092154"
 
 [update]
 [update.modrinth]
 mod-id = "iqK5uv72"
-version = "x7vxzThG"
+version = "5xfjHyo4"
