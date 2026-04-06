@@ -6,11 +6,6 @@ hash = "8e6033c2642308835d119a073fdf24306394cdb6985c482a08e67b8087f6e90d"
 metafile = true
 
 [[files]]
-file = "mods/better-beds.pw.toml"
-hash = "8ef7235675c71f938772fe5683b1b56cd952d3865a66cfd02dc8f3707d7f72b3"
-metafile = true
-
-[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "0914463fea5040e19f8eba7baa687b927b733db2a0284ad362a768d1b28a1f67"
 metafile = true
@@ -31,18 +26,13 @@ hash = "4d2e45eddc1d31e5e1f0c7fc5a949a29b39e64d7a246e0d5a5e2736f5d517d1c"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "420f0c5c892adf3dfb4ce155cbc77fcc9f472aaea2b79e6cab595cc486f5ff51"
-metafile = true
-
-[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "c7591ee366f9b0e5744de7e8c2ec53aeaf6e144fdded761279ad84abf8542285"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "584afbe823aec7afa13f8f96b08607c7cd369384cc72d5c22ebf78adbf88ed2d"
+hash = "4daa329acbe2f9aa94cf4ec6b83370c2809ed69ca4e1ac49e7f90576d00f35a7"
 metafile = true
 
 [[files]]
@@ -63,11 +53,6 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
-metafile = true
-
-[[files]]
-file = "mods/gputape.pw.toml"
-hash = "87a0a56a4cdc0c3a4bffc41f1902c99eefc3aa5f9504005bfda5a1ffcbb1b50e"
 metafile = true
 
 [[files]]
@@ -92,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "ece202c9d736d9ba378b618d07eee905f1f7d4a94e69e9b759a88813bd2d7566"
+hash = "567b3b5c08e5860de765b30e6a73e2bb1a4c63f725165c4113219269ce1b4c1d"
 metafile = true
 
 [[files]]
