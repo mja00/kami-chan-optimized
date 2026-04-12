@@ -121,11 +121,6 @@ hash = "722007a08065b27337e39edbbdb6a34067bbbe523f36a968d9861b9714144368"
 metafile = true
 
 [[files]]
-file = "mods/stackdeobf.pw.toml"
-hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "c744ce00ef4340e8a318e9aac8b6c5e14ae4805215dbcce2c6e75207592c6209"
 metafile = true
