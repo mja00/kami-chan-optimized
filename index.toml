@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "1e691e8c74bb4fd588661cbd706391b0651dbd37768bbdcf28cc78f968e5372f"
+hash = "dbbdc2eb0bd4c6082a4a47e5b37d894c4b4a294fd16ecd5329624e19c1e5388d"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "667420ac98bdf5f6f7e747b83f9407722586e0c15b635ad295bef55449498474"
+hash = "1b7dddabe21e51ddc2a0f1a304523089c4aa80dfe03d1921fdb6847a9a7f1065"
 metafile = true
 
 [[files]]
@@ -82,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-opt.pw.toml"
+hash = "315a655d0a4ec7ca4e74804e62be0402b7cfbf2bee22089114b90534e40a1700"
 metafile = true
 
 [[files]]
@@ -128,3 +133,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "c744ce00ef4340e8a318e9aac8b6c5e14ae4805215dbcce2c6e75207592c6209"
 metafile = true
+
+[[files]]
+file = "requirements.txt"
+hash = "6ab4d37abc6a18cfc206c7c7f1e24fe9140d3be1f4c02c7b4ba8fd27c570df14"
