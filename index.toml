@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "dbbdc2eb0bd4c6082a4a47e5b37d894c4b4a294fd16ecd5329624e19c1e5388d"
+hash = "22a4393b10d352d054bc13e1992d36c652f96d4e0dea28460b060afd0a372bd7"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1b7dddabe21e51ddc2a0f1a304523089c4aa80dfe03d1921fdb6847a9a7f1065"
+hash = "f88b106c6c7500d912c11c973d9c124d52b1577c52630c282720367312452d24"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "567b3b5c08e5860de765b30e6a73e2bb1a4c63f725165c4113219269ce1b4c1d"
+hash = "94768827963a3c80fffa06fbbf9d1c2cbae436c1ef83074d01221f1259f7cf55"
 metafile = true
 
 [[files]]
@@ -126,12 +126,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "722007a08065b27337e39edbbdb6a34067bbbe523f36a968d9861b9714144368"
+hash = "030f69f3a7e275201c10eef33ae360341a3c280b06955134b6885aeaa8883d6a"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c744ce00ef4340e8a318e9aac8b6c5e14ae4805215dbcce2c6e75207592c6209"
+hash = "25fd513915015dc25401178a859aa637ff490f9bfc1f4ba20e332ac8183aa168"
 metafile = true
 
 [[files]]
