@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".venv"
-hash = "dc87eb4a7e4120a7072d4c213ffc3acc47e64804dde4af4b84fed19fec6e9194"
+file = "config/ExploitPreventer.json"
+hash = "00ce9eebe3a33ddb5ae008ccd7916bf1aa42f7fa823f170f13938d8031ea2e5f"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -138,7 +138,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "25fd513915015dc25401178a859aa637ff490f9bfc1f4ba20e332ac8183aa168"
 metafile = true
-
-[[files]]
-file = "requirements.txt"
-hash = "6ab4d37abc6a18cfc206c7c7f1e24fe9140d3be1f4c02c7b4ba8fd27c570df14"

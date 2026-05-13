@@ -7,3 +7,5 @@
 check-outdated.py
 .github/
 venv/
+.venv
+requirements.txt

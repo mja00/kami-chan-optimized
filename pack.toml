@@ -1,18 +1,16 @@
 name = "Kami Chan Optimized"
 author = "mja00"
-version = "21.6.0"
+version = "21.6.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8f71f0380b7ebcf96b6a24d1ef69b178ee80abdbdb78d83179af8d4b01cf679b"
+hash = "d20fd3ead6ebc02c1a33f26bac8d52131ad6276baf94dff6e20173bc7db051e4"
 
 [versions]
 fabric = "0.19.1"
 minecraft = "26.1.2"
 
 [options]
-acceptable-game-versions = [
-    "26.1.1",
-]
+acceptable-game-versions = ["26.1.1"]
