@@ -41,12 +41,12 @@ metafile = true
 
 [[files]]
 file = "mods/exploitpreventer.pw.toml"
-hash = "e5cedd00da39d865db1f744c77314711418dfb732570ca6ca4ab6c8ed5e2ed40"
+hash = "9ddc3b8885439ef4c9551c00990156dbc2a2316ef7372247f88a86c130bfe735"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "42eac2c5f04724698fef548d0eec80151572b147149b0760cbc4322fc3020328"
+hash = "dae57c5a1bea0fb7b104fff48e4dd5b76c0eb46cb198f65b4a3ca13316c86d20"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "05c19cf37d76c1c53853f0b367b0ad5308d799c72354c2f2a320609eb0c7aaa6"
+hash = "61e81490e34e2fad9b8fda7419fd6ef72f3aad942ab210a70142af0bd806f409"
 metafile = true
 
 [[files]]
