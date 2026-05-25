@@ -1,5 +1,4 @@
 # flake8: noqa: E501
-import os
 import sys
 from pathlib import Path
 import tomllib
@@ -13,6 +12,16 @@ import argparse
 PACKWIZ_CMD = "./packwiz.exe" if sys.platform == "win32" else "./packwiz"
 MODS_DIR = Path("mods")
 PACK_TOML = Path("pack.toml")
+INDEX_TOML = Path("index.toml")
+
+
+def is_pack_file(path: Path) -> bool:
+    """Whether a path is part of the packwiz pack (and thus safe to auto-commit).
+
+    Guards against staging unrelated files (e.g. .venv/, tooling configs) that
+    happen to be untracked or modified in the working tree.
+    """
+    return path in (PACK_TOML, INDEX_TOML) or MODS_DIR in path.parents
 
 
 def parse_semver(version_string):
@@ -163,13 +172,17 @@ def main(args):
     if updated > 0:
         new_version = update_pack_version()
         repo = Repo(Path.cwd())
-        # Add any changed files (both untracked and modified)
-        repo.index.add(repo.untracked_files)
-        # Add modified files by getting their paths from the diff
+        # Add new pack files only (never sweep the whole worktree)
+        untracked_pack_files = [
+            f for f in repo.untracked_files if is_pack_file(Path(f))
+        ]
+        if untracked_pack_files:
+            repo.index.add(untracked_pack_files)
+        # Add modified pack files by getting their paths from the diff
         modified_files = [
             Path(diff.a_path)
             for diff in repo.index.diff(None)
-            if Path(diff.a_path).exists()
+            if Path(diff.a_path).exists() and is_pack_file(Path(diff.a_path))
         ]
         if modified_files:
             repo.index.add([str(f) for f in modified_files])

@@ -1,6 +1,10 @@
 packwiz.exe
 packwiz
 
+# Python virtual environments
+.venv/
+venv/
+
 # Exclude exported CurseForge zip files
 *.zip
 
