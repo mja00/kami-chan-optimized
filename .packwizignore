@@ -9,3 +9,6 @@ check-outdated.py
 venv/
 .venv
 requirements.txt
+uv.lock
+pyproject.toml
+.ruff_cache/
