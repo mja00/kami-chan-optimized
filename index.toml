@@ -110,6 +110,11 @@ hash = "460aa9c8aaed3845f1c4f31e997991bcc92fafe4d5c25f79255f1e0ddec82eac"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "5f482c62b32f8f639a19640518cd77bc60d73bb422bcf7378eb1ced0680a2573"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a73c17487f0b8a1f234b56f5cc61b28ce9413a9ce90859dd18ee2dbd03300a3a"
 metafile = true
@@ -138,3 +143,11 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "25fd513915015dc25401178a859aa637ff490f9bfc1f4ba20e332ac8183aa168"
 metafile = true
+
+[[files]]
+file = "pyproject.toml"
+hash = "6debdeb21fd0c69d90f828847294c895aecb1b42a542e21f959a2eb7217cde22"
+
+[[files]]
+file = "uv.lock"
+hash = "75378a5f7408b459ef0d4caab4a9afed0d7dde76cb5286ecfb3b7523c4daebc8"
