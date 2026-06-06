@@ -55,6 +55,13 @@ def refresh_index():
     except subprocess.CalledProcessError:
         pass  # Ignore errors in refresh
 
+def update_loader():
+    """Update the loader to the latest version."""
+    try:
+        subprocess.run([PACKWIZ_CMD, "migrate", "loader", "latest", "-y"], capture_output=True, check=True)
+    except subprocess.CalledProcessError:
+        pass  # Ignore errors in loader update
+
 
 def attempt_update(mod: str, info: dict):
     """Attempt to update a single mod. Returns True if successful, False otherwise."""
@@ -170,6 +177,8 @@ def main(args):
         print("Skipping commit and tag creation")
         return
     if updated > 0:
+        # Mods were updated so try to update the loader
+        update_loader()
         new_version = update_pack_version()
         repo = Repo(Path.cwd())
         # Add new pack files only (never sweep the whole worktree)
