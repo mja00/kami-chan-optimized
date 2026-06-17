@@ -6,12 +6,12 @@ hash = "00ce9eebe3a33ddb5ae008ccd7916bf1aa42f7fa823f170f13938d8031ea2e5f"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "8e6033c2642308835d119a073fdf24306394cdb6985c482a08e67b8087f6e90d"
+hash = "3635aff985b59e95eabf5ca9be77d20d25c9d4e2b20f97df42639ea794eda1f3"
 metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "3d368f9b35d7824282bd8f988cfa678c22dcdb82bb26c4565398f01f91820f31"
+hash = "28c7599c8d0a72227dfeef91782e2e8faf2ad6339b30e9b5c846b28173cd32ff"
 metafile = true
 
 [[files]]
@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "42f5637a87150687969d64b172ce8ef91bc3a92ee2eb68a2a17153350ff92b4b"
+hash = "fe17d2b9b63e19e1818f55d9d376aaec0c42c9fd9812d9a2f6d1c4160abd161b"
 metafile = true
 
 [[files]]
@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "33fc24c6a5206a8e5d038585860c6ab27dd0050a9f49c13049c4f535e3de5270"
+hash = "e670e68d81ea4d005a604e22f698661458aaf3420ffde8d6145cb6032d364cd4"
 metafile = true
 
 [[files]]
@@ -41,12 +41,12 @@ metafile = true
 
 [[files]]
 file = "mods/exploitpreventer.pw.toml"
-hash = "5daa495ee0beff60a097961f8ad3b953b9c106ff1bd9d4f18fca29607a30eac8"
+hash = "9e31b53c8d70553fd6fccdb7642bb7e10dd2aceea4d02222a7fb1ca4398fb5b3"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dbfc484ebc80a9b76e1fd95c89f9a63d702ee9eaa7051beaf1d609360afc2ef6"
+hash = "85777703d4901e4483d45b614a45615737bee231d786f1166ea37466abd6bd33"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
+hash = "289599ac70b0f0a9a0055f1bd10fb7e2c38c540c3ef49db8779c5c3988a7455c"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "51fa2c64e9cf2d5558a2f1e575960a0a9f9f27f73486d0d679c2bc695eb11026"
+hash = "8b4bb7969f100288a1bf2d0886dff2b62da878042a757b7caccf209e27fe36b9"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "42583eed7ccb599f10285e721c25bf3c8858ef7e0eb8e22aa8bf64a08d98a280"
+hash = "5d5837e22eb02061c7f8f087b4d839a269d2e39a5149e4079bd0cf594724abfd"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "3cc0488195b6c6b8069e8b998db711f75829dc5e2385c45be17083ce86214303"
+hash = "1be396d8af692a0921905a9b22dbc49c3a71eded3b5891ba10855182f9027442"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "5df4a212f7297545920f3e69aa8a9b2e9df8dfad2e35c5a5fb1485c5a2b0ba84"
+hash = "9c157cdcfc913259f508b629649114fb0ad1773b6caaccf512a9e6de7e5a6d38"
 metafile = true
 
 [[files]]
@@ -131,15 +131,15 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "546965f1ab52fc464c51e36c52305fef231837c22454d22447b8423e379502cd"
+hash = "972a9c4b21bff7451bc0cdc1aade549e68844ac4ee0e2696d698c7678160f9ca"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
+hash = "61b0b90fdcece885bca2ca639e5ddf696b374d51a93e3ee3deb8ecd07d57b9b0"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "7622435fd5a682c52c81382f5013cbde0fb11095b90a2267b58dfdd79665cf0d"
+hash = "5252379e17b33ea9048225a281a021843f7dd99b3ba0aee0dd543ab77fd9175a"
 metafile = true

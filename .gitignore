@@ -11,3 +11,4 @@ venv/
 # Exclude exported Modrinth modpacks
 *.mrpack
 .DS_Store
+node_modules/

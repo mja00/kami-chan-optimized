@@ -12,3 +12,4 @@ requirements.txt
 uv.lock
 pyproject.toml
 .ruff_cache/
+node_modules/
