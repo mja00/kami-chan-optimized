@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
+hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
 metafile = true
 
 [[files]]
@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "6c2f5d0b6229451159ab5d44c1b38954dc0236b94388b6e0ac174b5475cd2135"
+hash = "8acf16506251f6b0e96ef3e1d76f83cda767389917c89cc01623dafddb20646b"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "93be568ffd5908e1991054d273d0d008204afe55a53714bff471719d32dcbb5d"
+hash = "4c67dcaac16f11a5d90dfeb2d1e6bfaabca6ff5b912c566970330c005797e2ea"
 metafile = true
 
 [[files]]
@@ -60,18 +60,12 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
-file = "mods/forcecloseworldloadingscreen.pw.toml"
+file = "mods/forcecloseworldloadingscreen.pw.toml.outdatec"
 hash = "27b6b9b73ba33a9a19687b679eadaf24c769de3f6549e0eba9d471566d884cf0"
-metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "289599ac70b0f0a9a0055f1bd10fb7e2c38c540c3ef49db8779c5c3988a7455c"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
 metafile = true
 
 [[files]]
@@ -90,11 +84,6 @@ hash = "5d5837e22eb02061c7f8f087b4d839a269d2e39a5149e4079bd0cf594724abfd"
 metafile = true
 
 [[files]]
-file = "mods/moonrise-opt.pw.toml"
-hash = "315a655d0a4ec7ca4e74804e62be0402b7cfbf2bee22089114b90534e40a1700"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "1be396d8af692a0921905a9b22dbc49c3a71eded3b5891ba10855182f9027442"
 metafile = true
@@ -105,18 +94,8 @@ hash = "54dd8b88e92786d96c2487b7d6a473fbb7cd4576cec3a543788cfab327ffd623"
 metafile = true
 
 [[files]]
-file = "mods/optigui.pw.toml"
-hash = "460aa9c8aaed3845f1c4f31e997991bcc92fafe4d5c25f79255f1e0ddec82eac"
-metafile = true
-
-[[files]]
-file = "mods/particle-core.pw.toml"
-hash = "5f482c62b32f8f639a19640518cd77bc60d73bb422bcf7378eb1ced0680a2573"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.pw.toml"
-hash = "a73c17487f0b8a1f234b56f5cc61b28ce9413a9ce90859dd18ee2dbd03300a3a"
+hash = "92b8b681374fa78077bbe9612ef5d44569f31985d78ebe8b664f6a985bf9cfee"
 metafile = true
 
 [[files]]
@@ -131,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "972a9c4b21bff7451bc0cdc1aade549e68844ac4ee0e2696d698c7678160f9ca"
+hash = "e49481f8cec67aa4643ab47878f449e58f9442e049df3a290f7b215d73d1c022"
 metafile = true
 
 [[files]]
