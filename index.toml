@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "e670e68d81ea4d005a604e22f698661458aaf3420ffde8d6145cb6032d364cd4"
+hash = "fb32410323601e4a09d132b5b89c5f3addf4d37b0b30733bf98f3a2c69f46351"
 metafile = true
 
 [[files]]
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "85777703d4901e4483d45b614a45615737bee231d786f1166ea37466abd6bd33"
+hash = "91cbd0f5accaeb5ba27077286c6f4d149d1ac348626623b47ca5392e39625972"
 metafile = true
 
 [[files]]
@@ -64,8 +64,18 @@ file = "mods/forcecloseworldloadingscreen.pw.toml.outdatec"
 hash = "27b6b9b73ba33a9a19687b679eadaf24c769de3f6549e0eba9d471566d884cf0"
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "848644c7f7ef2baf05cdb3e9f441e978df04e6a41070d5b4b3f0a3a3f3c0571b"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "289599ac70b0f0a9a0055f1bd10fb7e2c38c540c3ef49db8779c5c3988a7455c"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1c998bd258e1eeebdf39f6a9d7397906f3f5c53c1a99a9677a8bd2c7ba0211fe"
 metafile = true
 
 [[files]]
@@ -80,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5d5837e22eb02061c7f8f087b4d839a269d2e39a5149e4079bd0cf594724abfd"
+hash = "64eee34685461c44e657b33d9a982c1da9b3e21f2fe139907fc8a6d68359be14"
 metafile = true
 
 [[files]]
@@ -100,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "9c157cdcfc913259f508b629649114fb0ad1773b6caaccf512a9e6de7e5a6d38"
+hash = "b4850ffb43d15c8105210859e5005c07d2a402b937b342ea51d85d10df1a073d"
 metafile = true
 
 [[files]]
