@@ -5,6 +5,11 @@ file = "config/ExploitPreventer.json"
 hash = "00ce9eebe3a33ddb5ae008ccd7916bf1aa42f7fa823f170f13938d8031ea2e5f"
 
 [[files]]
+file = "mods/audition.pw.toml"
+hash = "fcfee94ed44ca40b2c5f84939adbeb75dc5408ce69dab2ce0a3999959a8b6140"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "3635aff985b59e95eabf5ca9be77d20d25c9d4e2b20f97df42639ea794eda1f3"
 metafile = true
@@ -26,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "8acf16506251f6b0e96ef3e1d76f83cda767389917c89cc01623dafddb20646b"
+hash = "88467a7bdda3717c87a35e0833daf833d69603794746106ae20c56408bc2f854"
 metafile = true
 
 [[files]]
@@ -46,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "91cbd0f5accaeb5ba27077286c6f4d149d1ac348626623b47ca5392e39625972"
+hash = "7b9c5859f27094716924ae732771ef824ce77147f48570c64417422c747923b5"
 metafile = true
 
 [[files]]
@@ -65,7 +70,7 @@ hash = "27b6b9b73ba33a9a19687b679eadaf24c769de3f6549e0eba9d471566d884cf0"
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "848644c7f7ef2baf05cdb3e9f441e978df04e6a41070d5b4b3f0a3a3f3c0571b"
+hash = "655d6ae8e9c1b5cef61b68638afad766ad557a36070284194a02dc25349d6811"
 metafile = true
 
 [[files]]
@@ -75,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1c998bd258e1eeebdf39f6a9d7397906f3f5c53c1a99a9677a8bd2c7ba0211fe"
+hash = "41437a15f56b00994815f2bd2371ac84232cd7a1cc29688fe81480b44a935447"
 metafile = true
 
 [[files]]
@@ -90,17 +95,32 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "64eee34685461c44e657b33d9a982c1da9b3e21f2fe139907fc8a6d68359be14"
+hash = "7acfb9e9d7b052728f518574f1e79d20a2ec3296e147fbd3794b033fef381947"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-opt.pw.toml"
+hash = "f715443d723c5d65b3bcbbb7cfbab2a1d95287c8e158c7571e379aeac494fc0b"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "1be396d8af692a0921905a9b22dbc49c3a71eded3b5891ba10855182f9027442"
+hash = "1049850c9b377660d7f4be73ea81d04cd5a4db536b296835c30257fa73a233e4"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "54dd8b88e92786d96c2487b7d6a473fbb7cd4576cec3a543788cfab327ffd623"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "b962f94227f63b7330ec6de16b637aed463cbff0dd58c88dca5ba4180f6e71d1"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "ee72eb8f39a3d98dd6693a01a460a50ff88843270d23478f80413b609d1ade87"
 metafile = true
 
 [[files]]
@@ -130,5 +150,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "5252379e17b33ea9048225a281a021843f7dd99b3ba0aee0dd543ab77fd9175a"
+hash = "12f7929d34f36c9af034467f0ab94c1fd611c56a85389242fd1bca931efaf7cd"
 metafile = true

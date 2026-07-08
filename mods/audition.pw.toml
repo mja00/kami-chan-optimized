@@ -1,0 +1,13 @@
+name = "Audition"
+filename = "audition-2.0.0+mc26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HMeGkqZ7/versions/1JUG62Lr/audition-2.0.0%2Bmc26.2.jar"
+hash-format = "sha512"
+hash = "ebb20c88c08fc20d317456ced6eb567eaebbdaad5a34e1cadfb985e219517a3d7dbd325601a235506a47b2e38a18c5710364b56445454062f36895a968a0bf1e"
+
+[update]
+[update.modrinth]
+mod-id = "HMeGkqZ7"
+version = "1JUG62Lr"
