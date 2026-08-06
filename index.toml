@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1b9e935845b8242b10f5be1e641b3307a3557083ba364b06af57f5e32ffec2b5"
+hash = "848db8de89cc26314f20f6cf86e6c2cfc6e2cdd1a30a7d494575a4e24a8ef9f6"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ hash = "27b6b9b73ba33a9a19687b679eadaf24c769de3f6549e0eba9d471566d884cf0"
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "655d6ae8e9c1b5cef61b68638afad766ad557a36070284194a02dc25349d6811"
+hash = "a5834362a51844ddec68d35a3363edc7560fbaac4ca8a93372866feccdd4e7c7"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "1049850c9b377660d7f4be73ea81d04cd5a4db536b296835c30257fa73a233e4"
+hash = "a7038f7260b128480f8a62b12e5583240c2a94bd782c1b60e2356ec7a3843e4c"
 metafile = true
 
 [[files]]
@@ -145,12 +145,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
+hash = "4651334ca774c5ab2429135327e8fee5f9264f46828397691c3b9af94da9af87"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "12f7929d34f36c9af034467f0ab94c1fd611c56a85389242fd1bca931efaf7cd"
+hash = "fea09fc4ce051f11669aeaed6b7ff29b5f175b983395aea4c6e78cbfd6acc6f1"
 metafile = true
 
 [[files]]

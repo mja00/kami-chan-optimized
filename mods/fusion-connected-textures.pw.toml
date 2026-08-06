@@ -1,13 +1,13 @@
 name = "Fusion (Connected Textures)"
-filename = "fusion-1.3.5-fabric-mc26.2.jar"
+filename = "fusion-1.3.12-fabric-mc26.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/p19vrgc2/versions/UIuGABZi/fusion-1.3.5-fabric-mc26.2.jar"
+url = "https://cdn.modrinth.com/data/p19vrgc2/versions/N8OknjCW/fusion-1.3.12-fabric-mc26.2.jar"
 hash-format = "sha512"
-hash = "f702b7e6582dc522b93a06430b5de98f460560c7372ae5ad82ea1c745e04514087eb1c24a18947ad702227a7d7221f70bef474b24f2895b24ef28a1ad7fb869b"
+hash = "d1fc24b9dd4ce8fcf1dedb0e38c11bb468b6e9552ea9ad4621ea3cb5aeec1d80ab383df831e78f73592842bb248481700434515eacaca89f369b3810f47c0bf9"
 
 [update]
 [update.modrinth]
 mod-id = "p19vrgc2"
-version = "UIuGABZi"
+version = "N8OknjCW"
