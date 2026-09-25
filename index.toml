@@ -60,6 +60,11 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "27a5f24c49dc1030b205ef2716724d362dae8c6cbabbf123bb0ec1e0f78a7f29"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "cc6d05f424f8d4a12cfda176037bf26d1e4d70fb1a5ea7803a5fb581ce6f687c"
 metafile = true
@@ -126,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "54d699d9ba85bb08b9fd3696a11c7449ea1175a118805855143e1c88fa54aa6b"
+hash = "95b014c29351598261257614a55955215bba353a93593b2050cb07da295d3302"
 metafile = true
 
 [[files]]
